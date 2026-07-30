@@ -1,4 +1,14 @@
-# Background 
+# Executive Summary 
+
+# Table of Content
+- [**Sales Overview:**](https://github.com/bpananalytics/elist_analysis/blob/main/README.md#sales-overview) Evaluation of historical sales patterns, both globally and by region, focusing on Revenue, Average Order Value (AOV), and Order Count.  
+- [**Product Trend:**](https://github.com/bpananalytics/elist_analysis/blob/main/README.md#product-trend) An analysis of Company's various product lines, understanding their impact on sales. 
+- [**Loyalty Program:**](https://github.com/bpananalytics/elist_analysis/blob/main/README.md#loyalty-program) An assessment of the pilot loyalty program and its impact based on sales.  
+- [**Refund Analysis:**](https://github.com/bpananalytics/elist_analysis/blob/main/README.md#refund-analysis) An analysis of refunds from purchases made during the four years of the study.
+- [**Recommendation:**](https://github.com/bpananalytics/elist_analysis/blob/main/README.md#recommendations) A summary of actionable steps to implement in light of this study's findings. 
+- **Marketing Channel Effectiveness**
+
+# Company Background 
 E-List Electronics is a global online retailer focused on consumer electronics, offering products such as laptops, smartphones, monitors, and headphones. Established in 2018, the company runs a digital marketplace that features a broad range of items from multiple manufacturers and third-party sellers. Operating across North America, EMEA, APAC, and LATAM, E-List’s key priorities include growing its international presence, enhancing marketing effectiveness, and boosting customer loyalty through a rewards program. This study aims to address the following questions in effort to make market-based decision to further boost sales and cater to its consumer needs: 
 
 - **What is the company's overall sales performance?**
@@ -8,11 +18,6 @@ E-List Electronics is a global online retailer focused on consumer electronics, 
 
 To address these concerns, we will explore the analysis in the following sections.
 
-- [**Sales Overview:**](https://github.com/bpananalytics/elist_analysis/blob/main/README.md#sales-overview) Evaluation of historical sales patterns, both globally and by region, focusing on Revenue, Average Order Value (AOV), and Order Count.  
-- [**Product Trend:**](https://github.com/bpananalytics/elist_analysis/blob/main/README.md#product-trend) An analysis of Company's various product lines, understanding their impact on sales. 
-- [**Loyalty Program:**](https://github.com/bpananalytics/elist_analysis/blob/main/README.md#loyalty-program) An assessment of the pilot loyalty program and its impact based on sales.  
-- [**Refund Analysis:**](https://github.com/bpananalytics/elist_analysis/blob/main/README.md#refund-analysis) An analysis of refunds from purchases made during the four years of the study.
-- [**Recommendation:**](https://github.com/bpananalytics/elist_analysis/blob/main/README.md#recommendations) A summary of actionable steps to implement in light of this study's findings. 
 
 # Sales Overview
 
