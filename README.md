@@ -54,7 +54,6 @@ To address these concerns, we will explore the analysis in the following section
 
 # About the Data
 
-<img width="835" height="477" alt="image" src="https://github.com/user-attachments/assets/37befe8e-a928-4160-9d1e-868609b0ce78" />
 <img width="2720" height="1696" alt="ecommerce_schema_diagram_blue" src="https://github.com/user-attachments/assets/cf1193d7-3282-4007-b4da-bec0acbc78bf" />
 
 The dataset contains 108,000 entries for purchases made by customers over the time span of 2019 to 2022. Because Vantra is an international business, all purchases have been converted to USD for standardization. Within this analysis, several assumptions are being made.
@@ -90,10 +89,6 @@ While these three metrics are observed across different layers of data, further 
 - **Overview**: Number of Orders experienced dramatic increase in 2020, followed by gradual increase in 2021 and return towards 2019 levels by 2022.
 - **Geography**: North America outperforms all other regions in order count, of which US contributes to 60% of all orders. EMEA is next best performer, with GB accounting for 10% of all orders.
 - **Seasonality**: Order Count experiences dips in February and October, likely due to end of holiday season in February and end of summer purchases in October respectively. 
-
-# Deep Dive Analysis
-
-
 
 ## Product Trend
 
@@ -133,7 +128,7 @@ Based on brand comparisons by revenue, **Apple has consistently outsold all othe
 
 ## **Removal of Bose Product Line**
 
-<img width="782" height="163" alt="image" src="https://github.com/user-attachments/assets/02b2b59d-8ada-4441-b245-9894c735bee8" />
+<img width="1779" height="637" alt="bose_growth_rate_table" src="https://github.com/user-attachments/assets/0041c7e9-5783-451d-aa05-9000c8d3ea2d" />
 
 **Bose has experienced negative growth rate in revenue over the years**, with staggering 91% revenue contraction in 2022 compared to 2021, of which also experienced a substantial revenue contraction. Removal of the Bose product line will result in better catering to shifting consumer demands and open valuable operational resources and capacity towards better selling more profitable brands like Apple. With the year over year declining trend for Bose, this would be a conservative choice that can be safely made to increase the bottom line. 
 
