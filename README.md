@@ -1,3 +1,4 @@
+<img width="677" height="209" alt="image" src="https://github.com/user-attachments/assets/bd487fa5-4c19-41e0-95e8-3e40d8691a4c" />
 # Executive Summary 
 
 # Table of Content
