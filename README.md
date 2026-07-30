@@ -3,7 +3,7 @@
 # Executive Summary 
 **The Problem** <br>
 
-Since its founding, Vantra Electronics has experienced significant revenue growth, followed by a sustained decline in sales in subsequent years. This shift in performance has raised concerns regarding the investigation of this phenomenon. The Chief Commerical Officer has commissioned this analysis to determine the primary drivers of declining revenue and identify opportunities to restore sustainable growth. The analysis will be of the period between 2019 and 2024, where this phenomenon has ocurred. 
+Since its founding, Vantra Electronics has experienced significant revenue growth, followed by a sustained decline in sales in subsequent years. This shift in performance has raised concerns prompting the investigation of this phenomenon. The Chief Commerical Officer has commissioned this analysis to determine the primary drivers of declining revenue and identify opportunities to restore sustainable growth. The analysis will be of the period between 2019 and 2024, where this phenomenon has ocurred. As requested, the following questions will be primary in exploring the fluctuations in sales figures.  
 
 **Key Business Questions**
 - What caused Vantra's initial revenue surge?
