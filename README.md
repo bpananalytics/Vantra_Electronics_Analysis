@@ -28,6 +28,8 @@ Three areas of action
 
 
 # Table of Content
+- [**Company Background:**](https://github.com/bpananalytics/elist_analysis/blob/main/README.md#company-background) 
+
 - [**Sales Overview:**](https://github.com/bpananalytics/elist_analysis/blob/main/README.md#sales-overview) Evaluation of historical sales patterns, both globally and by region, focusing on Revenue, Average Order Value (AOV), and Order Count.  
 - [**Product Trend:**](https://github.com/bpananalytics/elist_analysis/blob/main/README.md#product-trend) An analysis of Company's various product lines, understanding their impact on sales. 
 - [**Loyalty Program:**](https://github.com/bpananalytics/elist_analysis/blob/main/README.md#loyalty-program) An assessment of the pilot loyalty program and its impact based on sales.  
@@ -45,10 +47,21 @@ This study aims to address the following questions in effort to make market-base
 - **What is the company's overall sales performance?**
 - **How are the current brands and products doing?**
 - **Has the pilot loyalty program demonstrated success in boosting revenue?**
-- **What has the refunded items told us about consumer demands?**
+- **What has the refunded items told us about consumer demands?**<img width="2720" height="1696" alt="ecommerce_schema_diagram_blue" src="https://github.com/user-attachments/assets/2d8dd6f7-7f05-400c-b062-7ed7c740468e" />
+
 
 To address these concerns, we will explore the analysis in the following sections.
 
+# About the Data
+
+<img width="835" height="477" alt="image" src="https://github.com/user-attachments/assets/37befe8e-a928-4160-9d1e-868609b0ce78" />
+<img width="2720" height="1696" alt="ecommerce_schema_diagram_blue" src="https://github.com/user-attachments/assets/cf1193d7-3282-4007-b4da-bec0acbc78bf" />
+
+The dataset contains 108,000 entries for purchases made by customers over the time span of 2019 to 2022. Because Vantra is an international business, all purchases have been converted to USD for standardization. Within this analysis, several assumptions are being made.
+
+- Currency exchange calculations are negligible during conversion to USD equivalent. Final pricing are fully determinant from the quality and quantity of goods sold. 
+- Inflation factors and interactions with transacted currencies are assumed negligble within the time span of the collected data.
+- Revenue recognized by the order reflects the value of the product solely and does not include any undisclosed fees, taxes, or surcharges.  
 
 # Sales Overview
 
@@ -80,15 +93,7 @@ While these three metrics are observed across different layers of data, further 
 
 # Deep Dive Analysis
 
-## About the Data
 
-<img width="835" height="477" alt="image" src="https://github.com/user-attachments/assets/37befe8e-a928-4160-9d1e-868609b0ce78" />
-
-The dataset contains 108,000 entries for purchases made by customers over the time span of 2019 to 2022. Because Company is an international business, all purchases have been converted to USD for standardization. Within this analysis, several assumptions are being made.
-
-- Currency exchange is negligible in conversion of other currencies to USD equivalent.
-- Inflation factors and interactions with transacted currencies are assumed negligble within the time span of four years.
-- Revenue recognized by the order reflects the value of the product solely and does not include any undisclosed fees, taxes, or surcharges.  
 
 ## Product Trend
 
