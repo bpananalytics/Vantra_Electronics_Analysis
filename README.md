@@ -57,15 +57,16 @@ Vanta has to this date built a customer base of nearly 88,000 across 194 countri
 # About the Data
 
 <p align="center"><img width="898" height="560" alt="ecommerce_schema_diagram_v3" src="https://github.com/user-attachments/assets/91a7ca56-31cd-4083-a677-be3c84aa8879" /></p>
-## Dataset
+
+## Dataset 
 The dataset contains 108,000 purchase records spanning January 2019 through December 2022. The data was sourced from Vantra Electronics' proprietary relational database and contains transaction-level information on customers, products, brands, geographic markets, loyalty membership, and refunds. Because Vantra operates internationally, transaction values have been standardized to USD to facilitate cross-market and longitudinal comparisons.
 
 ## Revenue Definition
 Revenue is defined as the recorded value of products purchased and excludes taxes, shipping charges, and other undisclosed fees or surcharges. Where applicable, refunds are treated separately from the original transaction value.
-To better understand Company performance on sales, we focus on three north star metrics. 
+To better understand Vantra's performance on sales, we focus on three north star metrics. 
 
 - **Revenue** is the aggregate value of each customer order made within a given month, converted to USD if in other currencies. 
-- **Average Order Value (AOV**) is the aggregate value of each month's orders in USD, averaged out per order. It highlights the market basket of an average consumer. 
+- **Average Order Value (AOV**) is the aggregate value of each month's orders in USD, averaged out per order. It highlights the average market basket of a consumer. 
 - **Order Count** or Units Sold is the count of orders having been purchased in any given month.
 
 ## Analytical Assumptions
