@@ -1,4 +1,5 @@
-<img width="677" height="209" alt="image" src="https://github.com/user-attachments/assets/bd487fa5-4c19-41e0-95e8-3e40d8691a4c" />
+<img width="2720" height="880" alt="vantra_electronics_bolt_logo" src="https://github.com/user-attachments/assets/e6dae741-a5b8-43e5-b90d-29560182e0b7" />
+
 # Executive Summary 
 
 # Table of Content
