@@ -1,6 +1,20 @@
 <img width="2720" height="880" alt="vantra_electronics_bolt_logo" src="https://github.com/user-attachments/assets/e6dae741-a5b8-43e5-b90d-29560182e0b7" />
 
 # Executive Summary 
+The problem:
+
+Why:
+
+Three areas of strength
+- Loyalty Program
+- Strong Apple brand
+- 
+
+Three areas of action
+- Bose product line
+- 
+
+
 
 # Table of Content
 - [**Sales Overview:**](https://github.com/bpananalytics/elist_analysis/blob/main/README.md#sales-overview) Evaluation of historical sales patterns, both globally and by region, focusing on Revenue, Average Order Value (AOV), and Order Count.  
