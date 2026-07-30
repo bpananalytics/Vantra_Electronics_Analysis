@@ -107,9 +107,9 @@ To better understand Vantra's performance on sales, we focus on three north star
 
 ## Product Trend
 
-<img width="1433" height="798" alt="image" src="https://github.com/user-attachments/assets/4946583f-f921-4fe2-a816-aee5f3270ef3" />
+<p align="center"><img width="742" height="530" alt="image" src="https://github.com/user-attachments/assets/080afd44-c848-4965-864c-21b611d16f4f" /></p>
 
-**Among brands, Apple dominates in sales, accounting for 50% of total revenue across the entire time period from 2019 to 2022.** Part of this market dominance may be attributed to Company's diverse shelf of products like the Airpods, the Macbook, and the iPhone; the former two being the most popular product of the Brand. By order count, Airpod headphones outperforms all other products with 48,000 units sold, with the next popular product being the no-brand gaming monitor which sold 23,000 units. However, it should be noted that by revenue, the order placement for these two products are reversed, where the gaming monitor is sold at a greater pricepoint and hence generates more revenue than the Airpod headphones. 
+**Among brands, Apple dominates in sales, accounting for 76% of all branded sales across the entire time period from 2019 to 2022.** Part of this market dominance may be attributed to Company's diverse shelf of products like the Airpods, the Macbook, and the iPhone; the former two being the most popular product of the Brand. By order count, Airpod headphones outperforms all other products with 48,000 units sold, with the next popular product being the no-brand gaming monitor which sold 23,000 units. However, it should be noted that by revenue, the order placement for these two products are reversed, where the gaming monitor is sold at a greater pricepoint and hence generates more revenue than the Airpod headphones. 
 
 <img width="650" height="237" alt="image" src="https://github.com/user-attachments/assets/f17db452-67d1-470c-a20e-e7dd0fd01eaa" />
 
