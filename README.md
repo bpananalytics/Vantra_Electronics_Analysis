@@ -1,8 +1,18 @@
 <img width="2720" height="880" alt="vantra_electronics_bolt_logo" src="https://github.com/user-attachments/assets/e6dae741-a5b8-43e5-b90d-29560182e0b7" />
 
 # Executive Summary 
-**The Problem** 
-Since founding, Vantra Electronics has experienced a strong surge in revenue followed by declining sales figures in subsequent years. Vantra has since commissioned us to look into the exact reasons and causes for this change in development and identify control aspects to address this. 
+**The Problem** <br>
+
+Since its founding, Vantra Electronics has experienced significant revenue growth, followed by a sustained decline in sales in subsequent years. This shift in performance has raised concerns regarding the investigation of this phenomenon. The Chief Commerical Officer has commissioned this analysis to determine the primary drivers of declining revenue and identify opportunities to restore sustainable growth. The analysis will be of the period between 2019 and 2024, where this phenomenon has ocurred. 
+
+**Key Business Questions**
+- What caused Vantra's initial revenue surge?
+- What factors contributed to the subsequent decline?
+- Which products and brands are driving or dragging performance?
+- Which geographic markets offer the greatest growth opportunities?
+- How does customer loyalty relate to purchasing behavior?
+- Are refunds materially affecting revenue?
+- Which factors should management prioritize to restore growth?
 
 **Root causes identified:**
 
@@ -40,39 +50,44 @@ Three areas of action
 # Company Background 
 Vantra Electronics is a global e-commerce company founded in 2018, specializing in consumer electronics like laptops, smartphones, monitors, and headphones. It operates a digital marketplace through its website and mobile app, featuring products from multiple manufacturers alongside third-party sellers, with a footprint spanning North America, EMEA, APAC, and LATAM.
 
-The company has built a customer base of nearly 88,000 across 194 countries, driving over 108,000 transactions and generating $28M in revenue. That growth has come quickly, but Vantra is now navigating headwinds tied to post-pandemic demand normalization. Looking ahead, its strategic priorities center on expanding international presence, sharpening marketing effectiveness, and deepening customer loyalty through a rewards program.
+Vantra primarily serves digitally engaged consumers seeking reliable, high-quality electronics from established brands. Its core customer is a tech-savvy, repeat purchaser who values convenience, product quality, and trusted brands, with loyalty-program members representing an important opportunity for long-term customer retention and increased lifetime value. Vantra’s customer strategy therefore focuses not only on acquiring new customers, but also on strengthening repeat purchasing, cross-selling complementary products, and building lasting customer relationships. To attract this customer base, Vantra has rolled out a loyalty program with offers of gratuitous refund policies to encourage tech-savvy customers to continually try-and-buy its products. 
 
-This study aims to address the following questions in effort to make market-based decision to further boost sales and cater to its consumer needs: 
-
-- **What is the company's overall sales performance?**
-- **How are the current brands and products doing?**
-- **Has the pilot loyalty program demonstrated success in boosting revenue?**
-- **What has the refunded items told us about consumer demands?**
-
-To address these concerns, we will explore the analysis in the following sections.
+Vanta has to this date built a customer base of nearly 88,000 across 194 countries, driving over 108,000 transactions and generating $28M in revenue. That growth has come quickly, but Vantra is now navigating headwinds tied to post-pandemic demand normalization. 
 
 # About the Data
 
 <p align="center"><img width="898" height="560" alt="ecommerce_schema_diagram_v3" src="https://github.com/user-attachments/assets/91a7ca56-31cd-4083-a677-be3c84aa8879" /></p>
+## Dataset
+The dataset contains 108,000 purchase records spanning January 2019 through December 2022. The data was sourced from Vantra Electronics' proprietary relational database and contains transaction-level information on customers, products, brands, geographic markets, loyalty membership, and refunds. Because Vantra operates internationally, transaction values have been standardized to USD to facilitate cross-market and longitudinal comparisons.
 
-The dataset contains 108,000 entries for purchases made by customers over the time span of 2019 to 2022. Because Vantra is an international business, all purchases have been converted to USD for standardization. Within this analysis, several assumptions are being made.
+## Revenue Definition
+Revenue is defined as the recorded value of products purchased and excludes taxes, shipping charges, and other undisclosed fees or surcharges. Where applicable, refunds are treated separately from the original transaction value.
+To better understand Company performance on sales, we focus on three north star metrics. 
 
-- Currency exchange calculations are negligible during conversion to USD equivalent. Final pricing are fully determinant from the quality and quantity of goods sold. 
-- Inflation factors and interactions with transacted currencies are assumed negligble within the time span of the collected data.
-- Revenue recognized by the order reflects the value of the product solely and does not include any undisclosed fees, taxes, or surcharges.  
+- **Revenue** is the aggregate value of each customer order made within a given month, converted to USD if in other currencies. 
+- **Average Order Value (AOV**) is the aggregate value of each month's orders in USD, averaged out per order. It highlights the market basket of an average consumer. 
+- **Order Count** or Units Sold is the count of orders having been purchased in any given month.
+
+## Analytical Assumptions
+- All transactions are standardized to USD using the dataset's exchange-rate methodology. Exchange-rate fluctuations are not separately modeled.
+- Revenue is analyzed in nominal USD; inflation-adjusted revenue is not calculated.
+- Product pricing reflects the recorded transaction value and does not incorporate unobserved fees, taxes, or surcharges.
+- Customer IDs are assumed to consistently identify the same customer throughout the analysis period.
+- Geographic classifications are assumed to accurately represent the customer's market at the time of purchase.
+- Loyalty-program status is treated as an observed customer characteristic; the analysis does not establish that loyalty membership causes higher spending.
+
+## Data Quality & Limitations
+- The dataset was reviewed for missing values, duplicates, inconsistencies, and anomalous trends.
+- A significant change in recorded refund activity occurs after 2021 and may reflect a change in data collection or recording practices.
+- The dataset does not contain sufficient information to determine profitability because product-level costs and margins are unavailable.
+- Revenue trends should therefore not be interpreted as equivalent to changes in profit.
+- Observed relationships between loyalty membership and customer value should be interpreted as associations rather than causal effects.
+
 
 # Sales Overview
 
 <img width="1821" height="363" alt="image" src="https://github.com/user-attachments/assets/733b633b-edec-47d6-a8dd-300647bf25fd" />
 
-### North Star Metrics
-To better understand Company performance on sales, we focus on three north star metrics. 
-
-- **Revenue** is the aggregate value of each customer order made within a given month, converted to USD if in other currencies. 
-- **Average Order Value (AOV**) is the aggregate value of each month's orders in USD, averaged out per order. It highlights the market basket of an average consumer. 
-- **Order Count** or Units Sold is the count of orders having been purchased in any given month. 
-
-While these three metrics are observed across different layers of data, further analysis of the dataset reveal revenue highly correlated with order count. As such, either are interchangeable in demonstrating positive or negative sales performance. 
 
 ## Sales Revenue
 - **Overview**: 2020 marked with incredible revenue growth, up 62% of previous year's revenue. Subsequent years show gradual return to previous levels, suggesting lockdown as a contributing factor to revenue surge.
