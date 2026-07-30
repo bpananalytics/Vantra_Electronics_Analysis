@@ -1,9 +1,10 @@
 <img width="2720" height="880" alt="vantra_electronics_bolt_logo" src="https://github.com/user-attachments/assets/e6dae741-a5b8-43e5-b90d-29560182e0b7" />
 
 # Executive Summary 
-The problem:
+**The Problem** 
+Since founding, Vantra Electronics has experienced a strong surge in revenue followed by declining sales figures in subsequent years. Vantra has since commissioned us to look into the exact reasons and causes for this change in development and identify control aspects to address this. 
 
-Why:
+**Root causes identified:**
 
 Three areas of strength
 - Loyalty Program
@@ -25,7 +26,11 @@ Three areas of action
 - **Marketing Channel Effectiveness**
 
 # Company Background 
-E-List Electronics is a global online retailer focused on consumer electronics, offering products such as laptops, smartphones, monitors, and headphones. Established in 2018, the company runs a digital marketplace that features a broad range of items from multiple manufacturers and third-party sellers. Operating across North America, EMEA, APAC, and LATAM, E-List’s key priorities include growing its international presence, enhancing marketing effectiveness, and boosting customer loyalty through a rewards program. This study aims to address the following questions in effort to make market-based decision to further boost sales and cater to its consumer needs: 
+Vantra Electronics is a global e-commerce company founded in 2018, specializing in consumer electronics like laptops, smartphones, monitors, and headphones. It operates a digital marketplace through its website and mobile app, featuring products from multiple manufacturers alongside third-party sellers, with a footprint spanning North America, EMEA, APAC, and LATAM.
+
+The company has built a customer base of nearly 88,000 across 194 countries, driving over 108,000 transactions and generating $28M in revenue. That growth has come quickly, but Vantra is now navigating headwinds tied to post-pandemic demand normalization. Looking ahead, its strategic priorities center on expanding international presence, sharpening marketing effectiveness, and deepening customer loyalty through a rewards program.
+
+This study aims to address the following questions in effort to make market-based decision to further boost sales and cater to its consumer needs: 
 
 - **What is the company's overall sales performance?**
 - **How are the current brands and products doing?**
