@@ -27,7 +27,7 @@ Since its founding, Vantra Electronics has experienced significant revenue growt
 
 🔴 Three areas of action
 
-| Issue | Effects | Recommendation |
+| Issue | Effects | Mitigation Strategy |
 |----------|----------|----------|
 | Bose Underperformance    | Data     | Data     |
 | Row 2    | Data     | Data     |
@@ -84,6 +84,11 @@ To better understand Vantra's performance on sales, we focus on three north star
 
 
 # Sales Overview
+**Turn this into dashboard banner thing**
+
+| Total Sales | Total Orders | Peak year sales | Peak year AOV |
+| - | - | - | - |
+| 12 | - | - | - |
 
 <img width="1821" height="363" alt="image" src="https://github.com/user-attachments/assets/733b633b-edec-47d6-a8dd-300647bf25fd" />
 
@@ -132,6 +137,14 @@ Looking more closely to performance, the loyalty program has experienced a few s
   Interesting to note however, refunds were absent from the data following 2021, which could suggest improper documentation or a processing issue with billing. Absence of this data may skew the analysis for refunds and hence may not capture the entire picture. Additional research into procedural documentation and billing confirmation may be suggested to better understand whether or not the analysis may be missing information. 
 
 # Recommendations
+
+| Recommendation | Priority | Department | Expected Impact |
+| - | - | - | - |
+| | | | 
+
+
+
+
 
 ## **Expansion of Apple Product Line**
 
