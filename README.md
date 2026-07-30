@@ -86,27 +86,33 @@ To better understand Vantra's performance on sales, we focus on three north star
 # Sales Overview
 **Turn this into dashboard banner thing**
 
-| Total Sales | Total Orders | Peak year sales | Peak year AOV |
-| - | - | - | - |
-| 12 | - | - | - |
+| Total Sales | AOV | Total Orders | 
+| - | - | - |
+| 12 | - | - |
 
-<img width="1821" height="363" alt="image" src="https://github.com/user-attachments/assets/733b633b-edec-47d6-a8dd-300647bf25fd" />
+## Revenue Returns to Pre-Pandemic Levels 
+
+<p align="center"><img width="785" height="430" alt="image" src="https://github.com/user-attachments/assets/9a5a3fc7-ead5-436b-9545-b5ff3a36cdc6" /></p>
+
+### The Insight
+2020 was an exceptional growth year for Vantra, with revenue increasing 62% year over year. Revenue subsequently declined toward pre-2020 levels through 2022, suggesting that the 2020 surge may have reflected temporary market conditions rather than a sustained shift in Vantra's underlying growth trajectory.
+
+### Evidence
+The 2020 revenue increase was driven by both higher order volume and increased average order value (AOV). AOV increased approximately 30% in 2020 before returning toward 2019 levels by 2022. Order volume followed a similar pattern: orders increased sharply in 2020, continued growing more moderately in 2021, and then moved back toward 2019 levels in 2022. Together, these trends indicate that the 2020 revenue increase was not attributable to a single factor. Both transaction volume and customer spend per order temporarily increased before normalizing.
+
+The timing of this change is consistent with the broader disruption to consumer behavior, supplier availability, and retail markets during the COVID-19 pandemic. However, the available transaction data alone cannot establish the extent to which these external factors caused Vantra's performance.
+
+### Business Implication
+Vantra appears to be returning to a more normalized post-pandemic market environment rather than experiencing a sustained deterioration in performance. The exceptional results achieved in 2020 should therefore be treated as an unusual period rather than a sustainable operating baseline.
+
+For management, the key question is whether Vantra can generate durable growth without relying on the temporary market conditions that benefited the business in 2020. Future performance should be evaluated against pre-pandemic benchmarks while monitoring whether changes in order volume, AOV, customer retention, product mix, and geographic demand are creating sustainable sources of growth.
+
+The current data do not indicate an immediate structural warning sign, but they do suggest that repeating 2020-level performance will require a new source of competitive advantage rather than a return to pandemic-era market conditions.
+
+## Seasonality
 
 
-## Sales Revenue
-- **Overview**: 2020 marked with incredible revenue growth, up 62% of previous year's revenue. Subsequent years show gradual return to previous levels, suggesting lockdown as a contributing factor to revenue surge.
-- **Geography**: North America leads in regional sales, with US making 60% of total revenue.
-- **Seasonality**: Q3 consistently records stronger revenue performance, likely driven by seasonaly increase in AOV for the months of July, August, and September. 
 
-## Average Order Value (AOV)
-- **Overview**: AOV grew by 30% in 2020, but returned to 2019 levels by 2022. Market contraction of lockdown accessible suppliers may be contributing factor to AOV growth, with associated market expansion of suppliers related to AOV decline.
-- **Geography**: APAC has the highest AOV. But by country, VG leads in AOV for all sales in the time frame of 2019-2022. 
-- **Seasonality**: Q3 has high AOV performance, likely driven by summer purchases and increased seasonal purchasing activity.  
-
-## Order Count 
-- **Overview**: Number of Orders experienced dramatic increase in 2020, followed by gradual increase in 2021 and return towards 2019 levels by 2022.
-- **Geography**: North America outperforms all other regions in order count, of which US contributes to 60% of all orders. EMEA is next best performer, with GB accounting for 10% of all orders.
-- **Seasonality**: Order Count experiences dips in February and October, likely due to end of holiday season in February and end of summer purchases in October respectively. 
 
 ## Product Trend
 
