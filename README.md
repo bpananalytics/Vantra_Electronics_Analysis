@@ -7,11 +7,21 @@ Since founding, Vantra Electronics has experienced a strong surge in revenue fol
 **Root causes identified:**
 
 Three areas of strength
+
+| Header 1 | Header 2 | Header 3 |
+|----------|----------|----------|
+| Row 1    | Data     | Data     |
+| Row 2    | Data     | Data     |
 - Loyalty Program
 - Strong Apple brand
 - 
 
 Three areas of action
+
+| Header 1 | Header 2 | Header 3 |
+|----------|----------|----------|
+| Row 1    | Data     | Data     |
+| Row 2    | Data     | Data     |
 - Bose product line
 - 
 
