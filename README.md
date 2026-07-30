@@ -53,7 +53,7 @@ To address these concerns, we will explore the analysis in the following section
 
 # About the Data
 
-<img width="2720" height="1696" alt="ecommerce_schema_diagram_blue" src="https://github.com/user-attachments/assets/cf1193d7-3282-4007-b4da-bec0acbc78bf" />
+<p align="center"><img width="898" height="560" alt="ecommerce_schema_diagram_v3" src="https://github.com/user-attachments/assets/91a7ca56-31cd-4083-a677-be3c84aa8879" /></p>
 
 The dataset contains 108,000 entries for purchases made by customers over the time span of 2019 to 2022. Because Vantra is an international business, all purchases have been converted to USD for standardization. Within this analysis, several assumptions are being made.
 
