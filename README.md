@@ -3,7 +3,7 @@
 # Executive Summary 
 **The Problem** <br>
 
-Since its founding, Vantra Electronics has experienced significant revenue growth, followed by a sustained decline in sales in subsequent years. This shift in performance has raised concerns prompting the investigation of this phenomenon. The Chief Commerical Officer has commissioned this analysis to determine the primary drivers of declining revenue and identify opportunities to restore sustainable growth. The analysis will be of the period between 2019 and 2024, where this phenomenon has ocurred. As requested, the following questions will be primary in exploring the fluctuations in sales figures.  
+Since its founding, Vantra Electronics has experienced significant revenue growth, followed by a sustained decline in sales in subsequent years. This shift in performance has raised concerns prompting the investigation of this phenomenon. The Chief Commerical Officer has commissioned this analysis to determine the primary drivers of declining revenue and identify opportunities to restore sustainable growth. The analysis will be of the period between 2019 and 2022, where this phenomenon has ocurred. As requested, the following questions will be primary in exploring the fluctuations in sales figures.  
 
 **Key Business Questions**
 - What caused Vantra's initial revenue surge?
@@ -16,24 +16,22 @@ Since its founding, Vantra Electronics has experienced significant revenue growt
 
 **Root causes identified:**
 
-Three areas of strength
+🟢Three areas of strength
 
-| Header 1 | Header 2 | Header 3 |
+| Initiative | Data Insight | Strategic Impact |
 |----------|----------|----------|
-| Row 1    | Data     | Data     |
-| Row 2    | Data     | Data     |
-- Loyalty Program
-- Strong Apple brand
-- 
+| Loyalty Program    | Data     | Data     |
+| Strong Apple Brand   | Data     | Data     |
+| | |
 
-Three areas of action
 
-| Header 1 | Header 2 | Header 3 |
+🔴 Three areas of action
+
+| Issue | Effects | Recommendation |
 |----------|----------|----------|
-| Row 1    | Data     | Data     |
+| Bose Underperformance    | Data     | Data     |
 | Row 2    | Data     | Data     |
-- Bose product line
-- 
+| | |
 
 
 
