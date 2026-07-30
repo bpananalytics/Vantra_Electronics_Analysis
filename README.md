@@ -47,8 +47,7 @@ This study aims to address the following questions in effort to make market-base
 - **What is the company's overall sales performance?**
 - **How are the current brands and products doing?**
 - **Has the pilot loyalty program demonstrated success in boosting revenue?**
-- **What has the refunded items told us about consumer demands?**<img width="2720" height="1696" alt="ecommerce_schema_diagram_blue" src="https://github.com/user-attachments/assets/2d8dd6f7-7f05-400c-b062-7ed7c740468e" />
-
+- **What has the refunded items told us about consumer demands?**
 
 To address these concerns, we will explore the analysis in the following sections.
 
@@ -127,8 +126,7 @@ Looking more closely to performance, the loyalty program has experienced a few s
 Based on brand comparisons by revenue, **Apple has consistently outsold all other brand products** year after year since 2019, with 27% of Company's revenue coming from Airpods and 22% coming from Macbook. Accounting for nearly 50% of Company's total revenue coming from Apple products alone between the years 2019-2022, Apple consumption demands is remarkably high and sticky. Even with demand falling post-2020 with increased supply competition, the strong preference of Apple still outweighs other product line, demonstrating a substantial brand loyalty. Capitalizing on the Apple brand and image by selling more of their highyly demanded products would suggest a likely boost to revenue growth.  
 
 ## **Removal of Bose Product Line**
-
-<img width="1779" height="637" alt="bose_growth_rate_table" src="https://github.com/user-attachments/assets/0041c7e9-5783-451d-aa05-9000c8d3ea2d" />
+<p align="center"><img width="890" height="319" alt="bose_growth_rate_table" src="https://github.com/user-attachments/assets/0041c7e9-5783-451d-aa05-9000c8d3ea2d" /></p>
 
 **Bose has experienced negative growth rate in revenue over the years**, with staggering 91% revenue contraction in 2022 compared to 2021, of which also experienced a substantial revenue contraction. Removal of the Bose product line will result in better catering to shifting consumer demands and open valuable operational resources and capacity towards better selling more profitable brands like Apple. With the year over year declining trend for Bose, this would be a conservative choice that can be safely made to increase the bottom line. 
 
