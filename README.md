@@ -53,10 +53,9 @@ Since its founding, Vantra Electronics has experienced significant revenue growt
   * [Bose as worst-performing brand](#bose-as-worst-performing-brand)
   * [Gaming Monitors among Big Ticket Items](#gaming-monitors-among-big-ticket-items)
 - [Loyalty Program](#loyalty-program)
-- [**Customer Demographic**](#--customer-demographic--)
+- [**Customer Demographic**](#customer-demographic)
 - [Recommendations](#recommendations)
-  * [**Optimize Summer marketing**](#--optimize-summer-marketing--)
-
+  
 # Company Background 
 Vantra Electronics is a global e-commerce company founded in 2018, specializing in consumer electronics like laptops, smartphones, monitors, and headphones. It operates a digital marketplace through its website and mobile app, featuring products from multiple manufacturers alongside third-party sellers, with a footprint spanning North America, EMEA, APAC, and LATAM.
 
