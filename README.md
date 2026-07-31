@@ -30,7 +30,7 @@ Since its founding, Vantra Electronics has experienced significant revenue growt
 | Issue | Effects | Mitigation Strategy |
 |----------|----------|----------|
 | Bose Underperformance    | Bose has as a 90% contraction in demand the last year, following repeated underperformance.     | Discontinuation of Bose line to better adjust to consumer tastes.     |
-| Row 2    | Data     | Data     |
+| Overreaching Geographic Coverage    | Data suggests over 64% of customer base is focused in the US. Opportunity to specialize in one market will allow better market penetration.      | Hone in and target customer base based on geography to encourage customer satisfaction and loyalty.     |
 | | |
 
 
