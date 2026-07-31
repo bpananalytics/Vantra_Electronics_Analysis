@@ -1,19 +1,19 @@
 <img width="2720" height="880" alt="vantra_electronics_bolt_logo" src="https://github.com/user-attachments/assets/e6dae741-a5b8-43e5-b90d-29560182e0b7" />
 
 # Executive Summary 
-**The Problem** <br>
+## The Problem <br>
 
 Since its founding, Vantra Electronics has experienced significant revenue growth, followed by a sustained decline in sales in subsequent years. This shift in performance has raised concerns prompting the investigation of this phenomenon. The Chief Commerical Officer has commissioned this analysis to determine the primary drivers of declining revenue and identify opportunities to restore sustainable growth. The analysis will be of the period between 2019 and 2022, where this phenomenon has ocurred. As requested, the following questions will be primary in exploring the fluctuations in sales figures.  
 
-**Key Business Questions**
+## Key Business Questions
 - [**What contributed to Vantra's initial revenue surge and its decline?**](https://github.com/bpananalytics/Vantra_Electronics_Analysis/blob/main/README.md#the-insight)
 - [**Which products and brands are driving or dragging performance?**](https://github.com/bpananalytics/Vantra_Electronics_Analysis/blob/main/README.md#brands-and-products)
 - Which geographic markets offer the greatest growth opportunities?
 - [**How does customer loyalty relate to purchasing behavior?**](https://github.com/bpananalytics/Vantra_Electronics_Analysis/blob/main/README.md#loyalty-program)
 - Which factors should management prioritize to restore growth?
 - 
-<br>
-🟢**Three Areas of Strength**
+
+## 🟢Three Areas of Strength
 
 | Initiative | Data Insight | Strategic Impact |
 |----------|----------|----------|
@@ -21,8 +21,7 @@ Since its founding, Vantra Electronics has experienced significant revenue growt
 | Loyalty Program    | Loyalty Program demonstrates improved market performance against non-loyalty purchases in recent years for revenue, AOV, and order count. | Continue loyalty program and emphasize growing loyalty customer base.     |
 | High Market Activity in Summer and Autumn | More revenue hikes during the months of July, August, September, November, and December. | Front-load marketing campaign spending in June and October to gear up for high spending season. 
 
-<br>
-🔴 **Three Areas for Action**
+## 🔴Three Areas for Action
 
 | Issue | Effects | Mitigation Strategy |
 |----------|----------|----------|
