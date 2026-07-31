@@ -127,7 +127,7 @@ The current data do not indicate an immediate structural warning sign, but they 
 
 
 ## Gaming Monitors among Big Ticket Items
-<p align="center"><img width="650" height="237" alt="image" src="https://github.com/user-attachments/assets/f17db452-67d1-470c-a20e-e7dd0fd01eaa" /></p>
+<p align="center"><img width="646" height="222" alt="image" src="https://github.com/user-attachments/assets/2e980e85-7dee-4bb6-b6df-454338253360" /></p>
 
 Among items sold, **gaming monitor seems to generate the most revenue**, bringing in 9.8 million dollars. Next most lucrative SKU is Apple's Airpod Headphones with 7.7 million dollars in sales, followed by Macbook Air Laptop. When reviewing sales by order count, Apple Airpod Headphones outperforms gaming monitors by two-folds. This suggests that while gaming monitors are profitable in its pricing, airpod headphones are succeeding by sheer demand. Possible reasons may include portability factors, higher likeliness or need of replacement, lower price range for gifting, or brand stickiness from Apple. 
 
