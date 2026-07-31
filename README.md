@@ -113,20 +113,22 @@ The current data do not indicate an immediate structural warning sign, but they 
 **Summer, marked by the months of July, August, and September show upward trajectory** on Revenue, AOV, and Order Count. This suggests that consumer are more apt to spend and make purchases during Q3 months of high activity. Preparing marketing campaigns geared towards this season will capture consumer demands during their time of least resistance to purchasing. 
 
 
-## Brands and Products 
+# Brands and Products 
 
+## Apple as the lead brand
 <p align="center"><img width="742" height="530" alt="image" src="https://github.com/user-attachments/assets/080afd44-c848-4965-864c-21b611d16f4f" /></p>
 
 **Among brands, Apple dominates in sales, accounting for 50% of Vantra's total profit, and 76% of all branded sales across the entire time period from 2019 to 2022.** Part of this market dominance may be attributed to Company's diverse shelf of products like the Airpods, the Macbook, and the iPhone; the former two being the most popular product of the Brand. By order count, Airpod headphones outperforms all other products with 48,000 units sold. However, it should be noted that by revenue, the order placement for these two products are reversed, where the gaming monitor is sold at a greater pricepoint and hence generates more revenue than the Airpod headphones. In addition, Apple has outperformed all other brands year after year since 2019, with 27% of Company's revenue coming from Airpods and 22% coming from Macbook. Accounting for nearly 50% of Vantra's total revenue coming from Apple products alone between the years 2019-2022, Apple consumption demands is remarkably high and sticky. Even with demand falling post-2020 with increased supply competition, the strong preference of Apple still outweighs other product line, demonstrating a substantial brand loyalty. Capitalizing on the Apple brand and image by selling more of their highyly demanded products would suggest a likely boost to revenue growth.  
 
-
-<p align="center"><img width="650" height="237" alt="image" src="https://github.com/user-attachments/assets/f17db452-67d1-470c-a20e-e7dd0fd01eaa" /></p>
-
-While the airpods and gaming monitor take first place for order count and gross revenue respectively, **the least popular order and least revenue-producing product is the Bose Soundsport Headphone, having only sold 27 units for $3,000 over four years.** The soundsport headphone underperforms the Airpod headphone by a huge margin, highlighting the stark contrasting behavior. While the case can be made that inclusion  of the Bose headphone may inadvertantly upsell the Apple Airpod, assuming a perfect competition market online, it is unlikely that this may be the case since the effect is diluted by presence of many other online retailers who also sell headphones for competitive prcies.  
-
+## Bose as worst-performing brand
 <p align="center"><img width="890" height="319" alt="bose_growth_rate_table" src="https://github.com/user-attachments/assets/0041c7e9-5783-451d-aa05-9000c8d3ea2d" /></p>
 
 **Bose has experienced negative growth rate in revenue over the years**, with staggering 91% revenue contraction in 2022 compared to 2021, of which also experienced a substantial revenue contraction. Removal of the Bose product line will result in better catering to shifting consumer demands and open valuable operational resources and capacity towards better selling more profitable brands like Apple. With the year over year declining trend for Bose, this would be a conservative choice that can be safely made to increase the bottom line. 
+
+
+## Gaming Monitors among big ticket items
+<p align="center"><img width="650" height="237" alt="image" src="https://github.com/user-attachments/assets/f17db452-67d1-470c-a20e-e7dd0fd01eaa" /></p>
+
 
 ## Loyalty Program
 
