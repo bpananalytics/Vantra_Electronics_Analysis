@@ -84,11 +84,8 @@ To better understand Vantra's performance on sales, we focus on three north star
 
 
 # Sales Overview
-**Turn this into dashboard banner thing**
 
-| Total Sales | AOV | Total Orders | 
-| - | - | - |
-| 12 | - | - |
+<p align="center"><img width="768" height="157" alt="image" src="https://github.com/user-attachments/assets/9e1b4c00-5435-4a85-a169-6eb93e2426db" /></p>
 
 ## Revenue Returns to Pre-Pandemic Levels 
 
