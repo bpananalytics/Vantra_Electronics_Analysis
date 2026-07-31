@@ -15,11 +15,11 @@ Since its founding, Vantra Electronics has experienced significant revenue growt
 
 #### 🟢Three Areas of Strength
 
-| Initiative | Data Insight | Strategic Impact |
+| Initiative | Data Insight | Strategic Implications |
 |----------|----------|----------|
 | Strong Apple Brand   | Apple accounts for roughly 50% of Vantra's revenue and has demonstrated a loyal customer following, having the most purchases out of all brands year after year.     | Leaning into selling more Apple products will lead to greater profitability.   |
-| Loyalty Program    | Loyalty Program demonstrates improved market performance against non-loyalty purchases in recent years for revenue, AOV, and order count. | Continue loyalty program and emphasize growing loyalty customer base.     |
-| High Market Activity in Summer and Autumn | More revenue hikes during the months of July, August, September, November, and December. | Front-load marketing campaign spending in June and October to gear up for high spending season. 
+| Loyalty Program    | Loyalty Program demonstrates improved market performance against non-loyalty purchases in recent years for revenue, AOV, and order count. | Continued loyalty program promotion will yield more profit and projected revenue growth.     |
+| High Market Activity in Summer and Autumn | More revenue hikes during the months of July, August, September, November, and December. | Front-load marketing campaign spending in June and October will help gear up for high spending season. 
 
 #### 🔴Three Areas for Action
 
