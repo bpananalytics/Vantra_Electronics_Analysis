@@ -20,8 +20,8 @@ Since its founding, Vantra Electronics has experienced significant revenue growt
 
 | Initiative | Data Insight | Strategic Impact |
 |----------|----------|----------|
-| Loyalty Program    | Data     | Data     |
-| Strong Apple Brand   | Data     | Data     |
+| Strong Apple Brand   | Apple accounts for roughly 50% of Vantra's revenue and has demonstrated a loyal customer following, having the most purchases out of all brands year after year.     | Leaning into selling more Apple products will lead to greater profitability.   |
+| Loyalty Program    | Loyalty Program demonstrates improved market performance against non-loyalty purchases in recent years for revenue, AOV, and order count. | Continue loyalty program and emphasize growing loyalty customer base.     |
 | | |
 
 
@@ -29,7 +29,7 @@ Since its founding, Vantra Electronics has experienced significant revenue growt
 
 | Issue | Effects | Mitigation Strategy |
 |----------|----------|----------|
-| Bose Underperformance    | Data     | Data     |
+| Bose Underperformance    | Bose has as a 90% contraction in demand the last year, following repeated underperformance.     | Discontinuation of Bose line to better adjust to consumer tastes.     |
 | Row 2    | Data     | Data     |
 | | |
 
@@ -108,28 +108,39 @@ The current data do not indicate an immediate structural warning sign, but they 
 
 ## Seasonality
 
+<img width="1802" height="347" alt="image" src="https://github.com/user-attachments/assets/722ff278-0ffc-46b9-96da-2f89b00a0ae0" />
+
+**Summer, marked by the months of July, August, and September show upward trajectory** on Revenue, AOV, and Order Count. This suggests that consumer are more apt to spend and make purchases during Q3 months of high activity. Preparing marketing campaigns geared towards this season will capture consumer demands during their time of least resistance to purchasing. 
 
 
-
-## Product Trend
+## Brands and Products 
 
 <p align="center"><img width="742" height="530" alt="image" src="https://github.com/user-attachments/assets/080afd44-c848-4965-864c-21b611d16f4f" /></p>
 
-**Among brands, Apple dominates in sales, accounting for 76% of all branded sales across the entire time period from 2019 to 2022.** Part of this market dominance may be attributed to Company's diverse shelf of products like the Airpods, the Macbook, and the iPhone; the former two being the most popular product of the Brand. By order count, Airpod headphones outperforms all other products with 48,000 units sold, with the next popular product being the no-brand gaming monitor which sold 23,000 units. However, it should be noted that by revenue, the order placement for these two products are reversed, where the gaming monitor is sold at a greater pricepoint and hence generates more revenue than the Airpod headphones. 
+**Among brands, Apple dominates in sales, accounting for 50% of Vantra's total profit, and 76% of all branded sales across the entire time period from 2019 to 2022.** Part of this market dominance may be attributed to Company's diverse shelf of products like the Airpods, the Macbook, and the iPhone; the former two being the most popular product of the Brand. By order count, Airpod headphones outperforms all other products with 48,000 units sold. However, it should be noted that by revenue, the order placement for these two products are reversed, where the gaming monitor is sold at a greater pricepoint and hence generates more revenue than the Airpod headphones. In addition, Apple has outperformed all other brands year after year since 2019, with 27% of Company's revenue coming from Airpods and 22% coming from Macbook. Accounting for nearly 50% of Vantra's total revenue coming from Apple products alone between the years 2019-2022, Apple consumption demands is remarkably high and sticky. Even with demand falling post-2020 with increased supply competition, the strong preference of Apple still outweighs other product line, demonstrating a substantial brand loyalty. Capitalizing on the Apple brand and image by selling more of their highyly demanded products would suggest a likely boost to revenue growth.  
 
-<img width="650" height="237" alt="image" src="https://github.com/user-attachments/assets/f17db452-67d1-470c-a20e-e7dd0fd01eaa" />
+
+<p align="center"><img width="650" height="237" alt="image" src="https://github.com/user-attachments/assets/f17db452-67d1-470c-a20e-e7dd0fd01eaa" /></p>
 
 While the airpods and gaming monitor take first place for order count and gross revenue respectively, **the least popular order and least revenue-producing product is the Bose Soundsport Headphone, having only sold 27 units for $3,000 over four years.** The soundsport headphone underperforms the Airpod headphone by a huge margin, highlighting the stark contrasting behavior. While the case can be made that inclusion  of the Bose headphone may inadvertantly upsell the Apple Airpod, assuming a perfect competition market online, it is unlikely that this may be the case since the effect is diluted by presence of many other online retailers who also sell headphones for competitive prcies.  
 
+<p align="center"><img width="890" height="319" alt="bose_growth_rate_table" src="https://github.com/user-attachments/assets/0041c7e9-5783-451d-aa05-9000c8d3ea2d" /></p>
+
+**Bose has experienced negative growth rate in revenue over the years**, with staggering 91% revenue contraction in 2022 compared to 2021, of which also experienced a substantial revenue contraction. Removal of the Bose product line will result in better catering to shifting consumer demands and open valuable operational resources and capacity towards better selling more profitable brands like Apple. With the year over year declining trend for Bose, this would be a conservative choice that can be safely made to increase the bottom line. 
+
 ## Loyalty Program
 
-<img width="1456" height="832" alt="image" src="https://github.com/user-attachments/assets/0c80e0a5-69d2-4e3b-a70f-db9fd5506889" />
+<p align="center"><img width="768" height="439" alt="image" src="https://github.com/user-attachments/assets/bdb4c834-c7d4-4e12-8b70-b87e62163272" /></p>
 
 **The loyalty program has seen an upward trend in revenue**, contrast to purchasing behavior of non-loyalty customers. Net revenue generated for loyalty program customers up 613% in 2020, just one year into effect. Following 2020 revenue boon, loyalty program still exhibits benefits in retaining customers, with greater order counts coming from loyalty program than that of non-loyalty customers for consecutive years of 2021 and 2022. As such, the loyalty program has demonstrated a positive trend towards better sales performance.  
 
 <img width="1437" height="846" alt="image" src="https://github.com/user-attachments/assets/f09740bb-8e0a-40bc-9ce2-9062d24dde31" />
 
 Looking more closely to performance, the loyalty program has experienced a few successes, in which Apple Airpods and Samsung Webcam has more buyers coming from the loyalty program than not. This demonstrates early success in the program, especially for Apple Airpods which accounts for second-most revenue generating item for the Company. More than half of this highly sought product is accounted for by loyalty customers. 
+
+<img width="1817" height="383" alt="image" src="https://github.com/user-attachments/assets/24c48754-6428-4ec3-839f-3c6447ce8fee" />
+
+By 2022, **Loyalty Program customers has outperformed Non-loyalty customers on all marks** for revenue, AOV, and order count. Loyalty Program customers are making more orders at higher value points than non-loyal customers. This has demonstrated success in the loyalty program, with 2021 being a pivotal year where consumers have adapted, embraced, and sees value in using the program. To capitalize on this effect more, Company should consider boosting enrollment in this program and incentivize new patrons to join. 
 
 ## Refund Analysis
 
@@ -151,20 +162,6 @@ Looking more closely to performance, the loyalty program has experienced a few s
 
 ## **Expansion of Apple Product Line**
 
-<img width="887" height="463" alt="image" src="https://github.com/user-attachments/assets/6d813f8d-26b6-4e1a-bfcc-86e31064ac2f" />
-
-Based on brand comparisons by revenue, **Apple has consistently outsold all other brand products** year after year since 2019, with 27% of Company's revenue coming from Airpods and 22% coming from Macbook. Accounting for nearly 50% of Company's total revenue coming from Apple products alone between the years 2019-2022, Apple consumption demands is remarkably high and sticky. Even with demand falling post-2020 with increased supply competition, the strong preference of Apple still outweighs other product line, demonstrating a substantial brand loyalty. Capitalizing on the Apple brand and image by selling more of their highyly demanded products would suggest a likely boost to revenue growth.  
-
-## **Removal of Bose Product Line**
-<p align="center"><img width="890" height="319" alt="bose_growth_rate_table" src="https://github.com/user-attachments/assets/0041c7e9-5783-451d-aa05-9000c8d3ea2d" /></p>
-
-**Bose has experienced negative growth rate in revenue over the years**, with staggering 91% revenue contraction in 2022 compared to 2021, of which also experienced a substantial revenue contraction. Removal of the Bose product line will result in better catering to shifting consumer demands and open valuable operational resources and capacity towards better selling more profitable brands like Apple. With the year over year declining trend for Bose, this would be a conservative choice that can be safely made to increase the bottom line. 
-
-## **Boost Loyalty Program**
-
-<img width="1817" height="383" alt="image" src="https://github.com/user-attachments/assets/24c48754-6428-4ec3-839f-3c6447ce8fee" />
-
-By 2022, **Loyalty Program customers has outperformed Non-loyalty customers on all marks** for revenue, AOV, and order count. Loyalty Program customers are making more orders at higher value points than non-loyal customers. This has demonstrated success in the loyalty program, with 2021 being a pivotal year where consumers have adapted, embraced, and sees value in using the program. To capitalize on this effect more, Company should consider boosting enrollment in this program and incentivize new patrons to join. 
 
 ## **Center Customer Base**
 
@@ -174,6 +171,4 @@ Of the highest top ten consumer base, Company has **64% of revenue coming from t
 
 ## **Optimize Summer marketing**
 
-<img width="1802" height="347" alt="image" src="https://github.com/user-attachments/assets/722ff278-0ffc-46b9-96da-2f89b00a0ae0" />
 
-**Summer, marked by the months of July, August, and September show upward trajectory** on Revenue, AOV, and Order Count. This suggests that consumer are more apt to spend and make purchases during Q3 months of high activity. Preparing marketing campaigns geared towards this season will capture consumer demands during their time of least resistance to purchasing. 
