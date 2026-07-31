@@ -6,12 +6,10 @@
 Since its founding, Vantra Electronics has experienced significant revenue growth, followed by a sustained decline in sales in subsequent years. This shift in performance has raised concerns prompting the investigation of this phenomenon. The Chief Commerical Officer has commissioned this analysis to determine the primary drivers of declining revenue and identify opportunities to restore sustainable growth. The analysis will be of the period between 2019 and 2022, where this phenomenon has ocurred. As requested, the following questions will be primary in exploring the fluctuations in sales figures.  
 
 **Key Business Questions**
-- What caused Vantra's initial revenue surge?
-- What factors contributed to the subsequent decline?
-- Which products and brands are driving or dragging performance?
+- [**What contributed to Vantra's initial revenue surge and its decline?**](https://github.com/bpananalytics/Vantra_Electronics_Analysis/blob/main/README.md#the-insight)
+- [**Which products and brands are driving or dragging performance?**](https://github.com/bpananalytics/Vantra_Electronics_Analysis/blob/main/README.md#brands-and-products)
 - Which geographic markets offer the greatest growth opportunities?
-- How does customer loyalty relate to purchasing behavior?
-- Are refunds materially affecting revenue?
+- [**How does customer loyalty relate to purchasing behavior?**](https://github.com/bpananalytics/Vantra_Electronics_Analysis/blob/main/README.md#loyalty-program)
 - Which factors should management prioritize to restore growth?
 
 **Root causes identified:**
@@ -145,13 +143,11 @@ Looking more closely to performance, the loyalty program has experienced a few s
 
 By 2022, **Loyalty Program customers has outperformed Non-loyalty customers on all marks** for revenue, AOV, and order count. Loyalty Program customers are making more orders at higher value points than non-loyal customers. This has demonstrated success in the loyalty program, with 2021 being a pivotal year where consumers have adapted, embraced, and sees value in using the program. To capitalize on this effect more, Company should consider boosting enrollment in this program and incentivize new patrons to join. 
 
-## Refund Analysis
+# **Customer Demographic**
 
-<img width="1421" height="825" alt="image" src="https://github.com/user-attachments/assets/8b860ffb-33f1-48a9-89b9-91ec5f325d40" />
+<p align="center"><img width="800" height="480" alt="revenue_by_country_area_chart" src="https://github.com/user-attachments/assets/73401007-5bb6-4757-bae8-793c5a29ec0f" /></p>
 
-**Refunds were made with much overlap during the revenue boon during the year 2020 and 2021**, after which buyers are conservative with their purchasing and buy only what they needed. As such, from August 2021 to end of 2022, no refunds were requested by buyers. Of which, the bulk of revenue loss from refunds were from Macbook air (33%), gaming monitors (29%), and Apple Airpod (19%). However, by volume, the most refunded product is Apple Airpods accounting for 49% of the returned items. The least refunded products were the bose headphones followed by the Apple iphone. The former being niche in appeal while the latter having a functional necessity for everyday use. While the loyalty program issues slightly more refunds by volume, non-loyalty accounts for a larger share of revenue loss, representing 62% of all refunded revenue. Unsurprisingly, North America accounted for 56% of the refunds, followed by EMEA and APAC, paralleling Company's customer base. Most refunded items have a delivery time between 5-10 days, but at similar levels. As such, it is unlikely that delivery speed is a factor in any of the refunds. 
-
-  Interesting to note however, refunds were absent from the data following 2021, which could suggest improper documentation or a processing issue with billing. Absence of this data may skew the analysis for refunds and hence may not capture the entire picture. Additional research into procedural documentation and billing confirmation may be suggested to better understand whether or not the analysis may be missing information. 
+Of the highest top ten consumer base, Company has **64% of revenue coming from the United States**. This suggests that specializing towards a specific demographic like the US may enable further market penetration and allow for better allocation of logistical resources such as currency exchange, shipping, and localization. 
 
 # Recommendations
 
@@ -160,17 +156,6 @@ By 2022, **Loyalty Program customers has outperformed Non-loyalty customers on a
 | | | | 
 
 
-
-
-
-## **Expansion of Apple Product Line**
-
-
-## **Center Customer Base**
-
-<p align="center"><img width="800" height="480" alt="revenue_by_country_area_chart" src="https://github.com/user-attachments/assets/73401007-5bb6-4757-bae8-793c5a29ec0f" /></p>
-
-Of the highest top ten consumer base, Company has **64% of revenue coming from the United States**. This suggests that specializing towards a specific demographic like the US may enable further market penetration and allow for better allocation of logistical resources such as currency exchange, shipping, and localization. 
 
 ## **Optimize Summer marketing**
 
