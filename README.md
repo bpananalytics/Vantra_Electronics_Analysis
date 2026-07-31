@@ -35,9 +35,28 @@ Since its founding, Vantra Electronics has experienced significant revenue growt
 
 # Table of Content
 
-<!-- TOC START -->
-
-<!-- TOC END -->
+- [Executive Summary](#executive-summary)
+- [Table of Content](#table-of-content)
+- [Company Background](#company-background)
+- [About the Data](#about-the-data)
+  * [Dataset](#dataset)
+  * [Revenue Definition](#revenue-definition)
+  * [Analytical Assumptions](#analytical-assumptions)
+  * [Data Quality & Limitations](#data-quality---limitations)
+- [Sales Overview](#sales-overview)
+  * [Revenue Returns to Pre-Pandemic Levels](#revenue-returns-to-pre-pandemic-levels)
+    + [The Insight](#the-insight)
+    + [Evidence](#evidence)
+    + [Business Implication](#business-implication)
+  * [Seasonality](#seasonality)
+- [Brands and Products](#brands-and-products)
+  * [Apple as the lead brand](#apple-as-the-lead-brand)
+  * [Bose as worst-performing brand](#bose-as-worst-performing-brand)
+  * [Gaming Monitors among Big Ticket Items](#gaming-monitors-among-big-ticket-items)
+- [Loyalty Program](#loyalty-program)
+- [**Customer Demographic**](#--customer-demographic--)
+- [Recommendations](#recommendations)
+  * [**Optimize Summer marketing**](#--optimize-summer-marketing--)
 
 # Company Background 
 Vantra Electronics is a global e-commerce company founded in 2018, specializing in consumer electronics like laptops, smartphones, monitors, and headphones. It operates a digital marketplace through its website and mobile app, featuring products from multiple manufacturers alongside third-party sellers, with a footprint spanning North America, EMEA, APAC, and LATAM.
