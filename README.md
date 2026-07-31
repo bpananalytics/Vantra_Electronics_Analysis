@@ -11,19 +11,18 @@ Since its founding, Vantra Electronics has experienced significant revenue growt
 - Which geographic markets offer the greatest growth opportunities?
 - [**How does customer loyalty relate to purchasing behavior?**](https://github.com/bpananalytics/Vantra_Electronics_Analysis/blob/main/README.md#loyalty-program)
 - Which factors should management prioritize to restore growth?
-
-**Root causes identified:**
-
-🟢Three areas of strength
+- 
+<br>
+🟢**Three Areas of Strength**
 
 | Initiative | Data Insight | Strategic Impact |
 |----------|----------|----------|
 | Strong Apple Brand   | Apple accounts for roughly 50% of Vantra's revenue and has demonstrated a loyal customer following, having the most purchases out of all brands year after year.     | Leaning into selling more Apple products will lead to greater profitability.   |
 | Loyalty Program    | Loyalty Program demonstrates improved market performance against non-loyalty purchases in recent years for revenue, AOV, and order count. | Continue loyalty program and emphasize growing loyalty customer base.     |
-| | |
+| High Market Activity in Summer and Autumn | More revenue hikes during the months of July, August, September, November, and December. | Front-load marketing campaign spending in June and October to gear up for high spending season. 
 
-
-🔴 Three areas of action
+<br>
+🔴 **Three Areas for Action**
 
 | Issue | Effects | Mitigation Strategy |
 |----------|----------|----------|
@@ -121,10 +120,25 @@ The current data do not indicate an immediate structural warning sign, but they 
 
 ## Seasonality
 
-<img width="1802" height="347" alt="image" src="https://github.com/user-attachments/assets/722ff278-0ffc-46b9-96da-2f89b00a0ae0" />
+<p align="center"><img width="660" height="360" alt="q3_seasonal_trend" src="https://github.com/user-attachments/assets/84434937-dc11-4895-9136-d16dcf4aa93e" /></p>
 
-**Summer, marked by the months of July, August, and September show upward trajectory** on Revenue, AOV, and Order Count. This suggests that consumer are more apt to spend and make purchases during Q3 months of high activity. Preparing marketing campaigns geared towards this season will capture consumer demands during their time of least resistance to purchasing. 
 
+### The Insight
+
+**Summer — July, August, and September — and Autumn — October through December — both show an upward trajectory in Revenue.** This suggests that consumers are more apt to spend and make purchases during Q3 and Q4. A few underlying effects may be hypothesized here. Summer activity may be propelled by increased social activity and vacation temperaments, as consumers loosen spending during travel and leisure months. Autumn and winter momentum, particularly around Thanksgiving and Christmas, likely reflects holiday shopping behavior, as gift-giving and seasonal promotions drive both higher order volumes and higher average order values.
+October stands out as a noticeable dip in activity, likely serving as a staging ground for consumers to save up between high-spending seasons. A dip in spending following Christmas and New Year's is also to be expected, as there is little need to buy gifts for any holidays during that period.
+
+### Business Implication
+
+Preparing marketing campaigns geared toward the summer and holiday seasons will help capture consumer demand during these windows of least resistance to purchasing. Conversely, the October lull and the post-holiday slowdown represent periods where aggressive acquisition spend is less likely to convert, and budget may be better allocated elsewhere.
+
+Potential actions:
+
+- Front-load campaign spend into June and October so momentum is already building heading into the July and November demand spikes, rather than reacting once the upward trend is already underway.
+- Shift October budget toward retention and low-cost brand presence rather than conversion-focused spend, given the seasonal dip — this could include email/loyalty touchpoints instead of paid acquisition.
+- Design holiday campaigns around gifting occasions specifically (Thanksgiving through Christmas) to capitalize on the AOV lift that seasonal promotions tend to drive, rather than generic seasonal messaging.
+- Plan a lighter post-holiday campaign cadence in the January dip, using the lull to test creative or run lower-cost brand-awareness initiatives instead of competing for scarce purchase intent.
+- Monitor whether the October dip and January dip are consistent year-over-year before locking in budget shifts, to confirm this is a seasonal pattern rather than a one-year anomaly.
 
 # Brands and Products 
 
