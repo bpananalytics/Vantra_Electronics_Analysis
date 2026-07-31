@@ -126,11 +126,12 @@ The current data do not indicate an immediate structural warning sign, but they 
 **Bose has experienced negative growth rate in revenue over the years**, with staggering 91% revenue contraction in 2022 compared to 2021, of which also experienced a substantial revenue contraction. Removal of the Bose product line will result in better catering to shifting consumer demands and open valuable operational resources and capacity towards better selling more profitable brands like Apple. With the year over year declining trend for Bose, this would be a conservative choice that can be safely made to increase the bottom line. 
 
 
-## Gaming Monitors among big ticket items
+## Gaming Monitors among Big Ticket Items
 <p align="center"><img width="650" height="237" alt="image" src="https://github.com/user-attachments/assets/f17db452-67d1-470c-a20e-e7dd0fd01eaa" /></p>
 
+Among items sold, **gaming monitor seems to generate the most revenue**, bringing in 9.8 million dollars. Next most lucrative SKU is Apple's Airpod Headphones with 7.7 million dollars in sales, followed by Macbook Air Laptop. When reviewing sales by order count, Apple Airpod Headphones outperforms gaming monitors by two-folds. This suggests that while gaming monitors are profitable in its pricing, airpod headphones are succeeding by sheer demand. Possible reasons may include portability factors, higher likeliness or need of replacement, lower price range for gifting, or brand stickiness from Apple. 
 
-## Loyalty Program
+# Loyalty Program
 
 <p align="center"><img width="768" height="439" alt="image" src="https://github.com/user-attachments/assets/bdb4c834-c7d4-4e12-8b70-b87e62163272" /></p>
 
