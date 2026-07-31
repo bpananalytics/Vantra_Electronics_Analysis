@@ -183,9 +183,3 @@ Of the highest top ten consumer base, Company has **64% of revenue coming from t
 | Recommendation | Priority | Department | Expected Impact |
 | - | - | - | - |
 | | | | 
-
-
-
-## **Optimize Summer marketing**
-
-
