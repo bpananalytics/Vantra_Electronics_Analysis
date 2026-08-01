@@ -197,7 +197,7 @@ The loyalty program has been a clear success story, driving sustained growth sin
 
 ## Insight
 
-**Among the top ten countries by consumer base, the United States alone accounts for 64% of total revenue ** — a heavy concentration that signals the U.S. is not just a leading market, but the dominant one by a wide margin. While Vantra makes considerable sales in other markets as well, the impact of the tail end markets are far exceeded by the impact of the U.S. in revenue contribution. The selection of the top ten countries is primarily to highlight the very marginal effect of having to service a host of various other markets. 
+**Among the top ten countries by consumer base, the United States alone accounts for 64% of total revenue** — a heavy concentration that signals the U.S. is not just a leading market, but the dominant one by a wide margin. While Vantra makes considerable sales in other markets as well, the impact of the tail end markets are far exceeded by the impact of the U.S. in revenue contribution. The selection of the top ten countries is primarily to highlight the very marginal effect of having to service a host of various other markets. 
 
 ## Business Implication 
 
