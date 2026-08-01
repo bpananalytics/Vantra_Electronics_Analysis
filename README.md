@@ -192,17 +192,9 @@ The **gaming monitor is the top revenue-generating SKU at $9.8 million, followed
 
 <p align="center"><img width="768" height="439" alt="image" src="https://github.com/user-attachments/assets/bdb4c834-c7d4-4e12-8b70-b87e62163272" /></p>
 
-**The loyalty program has seen an upward trend in revenue**, contrast to purchasing behavior of non-loyalty customers. Net revenue generated for loyalty program customers up 613% in 2020, just one year into effect. Following 2020 revenue boon, loyalty program still exhibits benefits in retaining customers, with greater order counts coming from loyalty program than that of non-loyalty customers for consecutive years of 2021 and 2022. As such, the loyalty program has demonstrated a positive trend towards better sales performance.  
-
-<img width="1437" height="846" alt="image" src="https://github.com/user-attachments/assets/f09740bb-8e0a-40bc-9ce2-9062d24dde31" />
-
-Looking more closely to performance, the loyalty program has experienced a few successes, in which Apple Airpods and Samsung Webcam has more buyers coming from the loyalty program than not. This demonstrates early success in the program, especially for Apple Airpods which accounts for second-most revenue generating item for the Company. More than half of this highly sought product is accounted for by loyalty customers. 
-
-<img width="1817" height="383" alt="image" src="https://github.com/user-attachments/assets/24c48754-6428-4ec3-839f-3c6447ce8fee" />
-
-By 2022, **Loyalty Program customers has outperformed Non-loyalty customers on all marks** for revenue, AOV, and order count. Loyalty Program customers are making more orders at higher value points than non-loyal customers. This has demonstrated success in the loyalty program, with 2021 being a pivotal year where consumers have adapted, embraced, and sees value in using the program. To capitalize on this effect more, Company should consider boosting enrollment in this program and incentivize new patrons to join. 
-
 ## Insight
+
+**The loyalty program has seen an upward trend in revenue**, contrast to purchasing behavior of non-loyalty customers. Net revenue generated for loyalty program customers up 613% in 2020, just one year into effect. Following 2020 revenue boon, loyalty program still exhibits benefits in retaining customers, with greater order counts coming from loyalty program than that of non-loyalty customers for consecutive years of 2021 and 2022. As such, the loyalty program has demonstrated a positive trend towards better sales performance.  
 
 The loyalty program has been a clear success story, driving sustained growth since its launch. Net revenue from loyalty customers jumped 613% in 2020 alone, and loyalty customers have consistently out-ordered non-loyalty customers every year since (2021 and 2022). At the product level, AirPods and Samsung Webcam show the strongest loyalty-driven performance, with loyalty customers accounting for more than half of AirPods sales — notable given AirPods is the company's second-highest revenue-generating product. By 2022, loyalty customers outperformed non-loyalty customers across every key metric: revenue, average order value (AOV), and order count — signaling that 2021 was a turning point where consumers fully embraced the program and now demonstrate both higher purchase frequency and higher spend per order.
 
