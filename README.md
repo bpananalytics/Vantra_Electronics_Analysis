@@ -33,17 +33,13 @@ Since its founding, Vantra Electronics has experienced significant revenue growt
 
 # Table of Content
 - [Executive Summary](#executive-summary)
-      - [The Problem <br>](#the-problem--br-)
-      - [Key Business Questions](#key-business-questions)
-      - [Three Areas of Strength](#--three-areas-of-strength)
-      - [Three Areas for Action](#--three-areas-for-action)
 - [Table of Content](#table-of-content)
 - [Company Background](#company-background)
 - [About the Data](#about-the-data)
   * [Dataset](#dataset)
   * [Revenue Definition](#revenue-definition)
   * [Analytical Assumptions](#analytical-assumptions)
-  * [Data Quality & Limitations](#data-quality---limitations)
+  * [Data Quality & Limitations](https://github.com/bpananalytics/Vantra_Electronics_Analysis#data-quality--limitations)
 - [Sales Overview](#sales-overview)
   * [Revenue Returns to Pre-Pandemic Levels](#revenue-returns-to-pre-pandemic-levels)
     + [Insight](#insight)
