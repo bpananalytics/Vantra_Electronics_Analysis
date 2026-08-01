@@ -27,7 +27,7 @@ Since its founding, Vantra Electronics has experienced significant revenue growt
 |----------|----------|----------|
 | Bose Underperformance    | Bose has as a 90% contraction in demand the last year, following repeated underperformance.     | Discontinuation of Bose line to better adjust to consumer tastes.     |
 | Overreaching Geographic Coverage    | Data suggests over 64% of customer base is focused in the US. Opportunity to specialize in one market will allow better market penetration.      | Hone in and target customer base based on geography to encourage customer satisfaction and loyalty.     |
-| | |
+| Refund Data Corrupted | Recorded refunds did not appear in dataset after 2021. While plausible, this is deemed highly unlikely. This anomaly raises red flags on changes to data recording and may imply possible procedural disruption. | Communicate with Sales and Accounting Team to reconcile missing refund data. 
 
 
 
@@ -86,11 +86,10 @@ To better understand Vantra's performance on sales, we focus on three north star
 - Loyalty-program status is treated as an observed customer characteristic; the analysis does not establish that loyalty membership causes higher spending.
 
 ## Data Quality & Limitations
-- The dataset was reviewed for missing values, duplicates, inconsistencies, and anomalous trends.
-- A significant change in recorded refund activity occurs after 2021 and may reflect a change in data collection or recording practices.
-- The dataset does not contain sufficient information to determine profitability because product-level costs and margins are unavailable.
-- Revenue trends should therefore not be interpreted as equivalent to changes in profit.
-- Observed relationships between loyalty membership and customer value should be interpreted as associations rather than causal effects.
+- The dataset was reviewed for missing values, duplicates, inconsistencies, and anomalous trends. Any pertinent missing values or inconsistencies were deemed negligible and removed from the study. 
+- A significant lack of  recorded refund activity occurs after 2021, which suggests some data quality corruption. The anomaly warrants procedural investigation with Sales and Accounting Team as to confirm if refunds have stopped post-2021. As such, analysis of refunds was not considered out of the plausibility of faulty data. Revenue is hence recognized at purchase date but is not nullified if refunded. As the analysis focuses on sales and not profitability, the analysis on refunds may be considered later for a subsequent analytical project. 
+- The dataset does not contain sufficient information to determine profitability because product-level costs and margins are unavailable. Revenue trends should therefore not be interpreted as equivalent to changes in profit.
+- This analysis evaluates whether loyalty membership is associated with stronger business outcomes. While these findings cannot establish causality, they provide evidence that the program is correlated with higher customer engagement and sales, making them useful for evaluating program performance and identifying areas for further investigation.
 
 
 # Sales Overview
