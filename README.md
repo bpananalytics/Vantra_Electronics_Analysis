@@ -8,9 +8,9 @@ Since its founding, Vantra Electronics has experienced significant revenue growt
 #### Key Business Questions
 - [**What contributed to Vantra's initial revenue surge and its decline?**](https://github.com/bpananalytics/Vantra_Electronics_Analysis#revenue-returns-to-pre-pandemic-levels)
 - [**Which products and brands are driving or dragging performance?**](https://github.com/bpananalytics/Vantra_Electronics_Analysis#brands-and-products)
-- [**Which geographic markets offer the greatest growth opportunities?**](https://github.com/bpananalytics/Vantra_Electronics_Analysis#geography)
-- [**How does customer loyalty relate to purchasing behavior?**](https://github.com/bpananalytics/Vantra_Electronics_Analysis#loyalty-program)
-- [**Which factors should management prioritize to restore growth?**](https://github.com/bpananalytics/Vantra_Electronics_Analysis#recommendations)
+- [**How is the success of the loyalty program?**](https://github.com/bpananalytics/Vantra_Electronics_Analysis#loyalty-program)
+- [**Which geographic markets offer the greatest opportunities?**](https://github.com/bpananalytics/Vantra_Electronics_Analysis#geography)
+- [**Which can management do to prioritize revenue growth?**](https://github.com/bpananalytics/Vantra_Electronics_Analysis#recommendations)
   
 
 #### 🟢Three Areas of Strength
