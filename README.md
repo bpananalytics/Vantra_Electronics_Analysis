@@ -68,9 +68,6 @@ Since its founding, Vantra Electronics has experienced significant revenue growt
   * [Insight](#insight-4)
   * [Business Implication](#business-implication-6)
 - [Recommendations](#recommendations)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
   
 # Company Background 
 Vantra Electronics is a global e-commerce company founded in 2018, specializing in consumer electronics like laptops, smartphones, monitors, and headphones. It operates a digital marketplace through its website and mobile app, featuring products from multiple manufacturers alongside third-party sellers, with a footprint spanning North America, EMEA, APAC, and LATAM.
