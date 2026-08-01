@@ -103,7 +103,6 @@ To better understand Vantra's performance on sales, we focus on three north star
 ### The Insight
 2020 was an exceptional growth year for Vantra, with revenue increasing 62% year over year. Revenue subsequently declined toward pre-2020 levels through 2022, suggesting that the 2020 surge may have reflected temporary market conditions rather than a sustained shift in Vantra's underlying growth trajectory.
 
-### Evidence
 The 2020 revenue increase was driven by both higher order volume and increased average order value (AOV). AOV increased approximately 30% in 2020 before returning toward 2019 levels by 2022. Order volume followed a similar pattern: orders increased sharply in 2020, continued growing more moderately in 2021, and then moved back toward 2019 levels in 2022. Together, these trends indicate that the 2020 revenue increase was not attributable to a single factor. Both transaction volume and customer spend per order temporarily increased before normalizing.
 
 The timing of this change is consistent with the broader disruption to consumer behavior, supplier availability, and retail markets during the COVID-19 pandemic. However, the available transaction data alone cannot establish the extent to which these external factors caused Vantra's performance.
@@ -129,13 +128,11 @@ October stands out as a noticeable dip in activity, likely serving as a staging 
 
 Preparing marketing campaigns geared toward the summer and holiday seasons will help capture consumer demand during these windows of least resistance to purchasing. Conversely, the October lull and the post-holiday slowdown represent periods where aggressive acquisition spend is less likely to convert, and budget may be better allocated elsewhere.
 
-Potential actions:
+Potential Actions:
 
 - Front-load campaign spend into June and October so momentum is already building heading into the July and November demand spikes, rather than reacting once the upward trend is already underway.
-- Shift October budget toward retention and low-cost brand presence rather than conversion-focused spend, given the seasonal dip — this could include email/loyalty touchpoints instead of paid acquisition.
 - Design holiday campaigns around gifting occasions specifically (Thanksgiving through Christmas) to capitalize on the AOV lift that seasonal promotions tend to drive, rather than generic seasonal messaging.
 - Plan a lighter post-holiday campaign cadence in the January dip, using the lull to test creative or run lower-cost brand-awareness initiatives instead of competing for scarce purchase intent.
-- Monitor whether the October dip and January dip are consistent year-over-year before locking in budget shifts, to confirm this is a seasonal pattern rather than a one-year anomaly.
 
 # Brands and Products 
 
@@ -148,11 +145,9 @@ Potential actions:
 
 ### Business Implication 
 
-- Double down on Apple as a core revenue driver: Given its outsized contribution to profit and revenue, prioritize inventory allocation, marketing spend, and shelf space toward Apple products, especially AirPods and MacBook.
+- Double down on Apple as a core revenue driver: Given its outsized contribution to profit and revenue, prioritize inventory allocation, marketing spend, and shelf space toward Apple products, especially AirPods and MacBook. It is also worth noting that while Apple is hot right now and does warrant further investments, over-reliance on a single brand for ~50% of revenue is a vulnerability. A parallel investment in diversifying the "next tier" of brands is also recommended.
 - Reconcile volume vs. revenue strategy: Since AirPods drive units but the gaming monitor drives revenue per sale, consider bundling strategies (e.g., pairing high-volume/low-margin items with high-revenue/low-volume items) or adjusting pricing/promotions to lift AirPods' revenue contribution without sacrificing its volume advantage.
-- Investigate the post-2020 demand dip: Even though Apple's relative dominance held, understand what drove the decline (increased competitor supply) and assess whether targeted promotions, loyalty programs, or exclusive bundles could re-accelerate growth.
-- Leverage brand loyalty for cross-sell: Use Apple's sticky demand to introduce or upsell adjacent products (accessories, extended warranties, complementary tech) to Apple buyers, deepening basket size per transaction.
-- Monitor concentration risk: While Apple's dominance is a strength, over-reliance on a single brand for ~50% of revenue is a vulnerability. Consider parallel investment in diversifying the "next tier" of brands to hedge against supply chain, pricing, or reputational risk tied to Apple specifically.
+- Leverage brand loyalty for cross-sell: Use Apple's sticky demand to introduce or upsell adjacent products (accessories, extended warranties, complementary tech) to Apple buyers, deepening basket size per transaction. 
 
 
 ## Bose as worst-performing brand
@@ -167,7 +162,6 @@ Potential actions:
 - Discontinue or phase out the Bose product line: Given the sustained, accelerating decline, removing Bose is a low-risk decision — the consistent downward trend over multiple years makes this a conservative call rather than a speculative one.
 - Reallocate freed-up resources to Apple: Redirect the shelf space, marketing budget, and operational capacity previously tied to Bose toward higher-performing, more profitable brands like Apple, where demand is strong and sticky.
 - Validate before fully exiting: Before a full removal, consider a brief diagnostic check (e.g., is the decline isolated to specific Bose product categories, or brand-wide?) to confirm there's no salvageable sub-segment worth retaining — this ensures the "conservative" choice is also a fully informed one.
-- Monitor the transition's impact: After reallocating resources, track whether the shift measurably improves margins and revenue concentration in higher-performing brands, to confirm the expected bottom-line benefit materializes.
 
 
 ## Gaming Monitors among Big Ticket Items
@@ -179,11 +173,9 @@ The **gaming monitor is the top revenue-generating SKU at $9.8 million, followed
 
 ### Business Implication
 
-- Treat these as two distinct growth levers, not one: Since gaming monitors and AirPods succeed for different reasons (margin/price vs. volume/demand), tailor strategy accordingly — protect and optimize pricing for the gaming monitor, and focus on inventory availability, restocking speed, and accessibility for AirPods.
-- Investigate the "why" behind AirPods' volume: Run further analysis (or light customer research) to confirm which driver — portability, replacement cycles, gift purchases, or brand loyalty — is most responsible for demand. This will clarify whether to invest in replenishment marketing, gifting-season promotions, or broader Apple ecosystem cross-sell.
-- Explore a bundling or complementary pricing strategy: Consider pairing a high-margin, low-volume item (gaming monitor) with a high-volume, lower-margin item (AirPods) in promotions to lift overall basket value while capitalizing on AirPods' natural demand pull.
+- Treat these as two success products as two distinct growth levers. Since gaming monitors and AirPods succeed for different reasons (margin/price vs. volume/demand), tailor strategy accordingly — protect and optimize pricing for the gaming monitor, and focus on inventory availability, restocking speed, and accessibility for AirPods.
+- Investigate the "why" behind AirPods' volume: Run customer research to confirm which driver — portability, replacement cycles, gift purchases, or brand loyalty — is most responsible for demand. This will clarify whether to invest in replenishment marketing, gifting-season promotions, or broader Apple ecosystem cross-sell.
 - Assess replacement-driven demand for retention opportunities: If replacement/upgrade cycles are a meaningful driver for AirPods, consider a loyalty or trade-in program to capture repeat purchases and strengthen customer retention.
-- Benchmark other SKUs against this volume-vs-revenue lens: Apply the same revenue-vs-order-count comparison across the broader catalog to identify other products that may be under- or over-indexing on price versus demand, informing future inventory and pricing decisions.
 
 
 # Loyalty Program
@@ -199,6 +191,17 @@ Looking more closely to performance, the loyalty program has experienced a few s
 <img width="1817" height="383" alt="image" src="https://github.com/user-attachments/assets/24c48754-6428-4ec3-839f-3c6447ce8fee" />
 
 By 2022, **Loyalty Program customers has outperformed Non-loyalty customers on all marks** for revenue, AOV, and order count. Loyalty Program customers are making more orders at higher value points than non-loyal customers. This has demonstrated success in the loyalty program, with 2021 being a pivotal year where consumers have adapted, embraced, and sees value in using the program. To capitalize on this effect more, Company should consider boosting enrollment in this program and incentivize new patrons to join. 
+
+## Insight
+
+The loyalty program has been a clear success story, driving sustained growth since its launch. Net revenue from loyalty customers jumped 613% in 2020 alone, and loyalty customers have consistently out-ordered non-loyalty customers every year since (2021 and 2022). At the product level, AirPods and Samsung Webcam show the strongest loyalty-driven performance, with loyalty customers accounting for more than half of AirPods sales — notable given AirPods is the company's second-highest revenue-generating product. By 2022, loyalty customers outperformed non-loyalty customers across every key metric: revenue, average order value (AOV), and order count — signaling that 2021 was a turning point where consumers fully embraced the program and now demonstrate both higher purchase frequency and higher spend per order.
+
+## Business Implication 
+
+- Prioritize loyalty program enrollment growth: Since loyalty customers now outperform non-loyalty customers on every metric, expanding the loyalty base is likely one of the highest-leverage growth levers available. Introduce enrollment incentives (e.g., sign-up bonuses, first-purchase discounts) at checkout and marketing touchpoints.
+- Double down on the AirPods–loyalty connection: Given AirPods' outsized role in both revenue and loyalty engagement, use it as an enrollment hook — e.g., loyalty-exclusive AirPods bundles, early access, or loyalty-tier discounts to convert non-loyalty AirPods buyers into program members.
+- Replicate the Samsung Webcam and AirPods success pattern. Do consumer research what made these two products resonate with loyalty customers (price point, repeat purchase behavior, bundling) and apply similar tactics to other high-potential SKUs to broaden loyalty-driven sales.
+- Target non-loyalty customers with high AOV potential: Since loyalty customers spend more per order, design targeted campaigns (e.g., "join and save on your next order") aimed at converting frequent non-loyalty shoppers, who may be the easiest segment to convert given existing purchase intent.
 
 # **Customer Demographic**
 
