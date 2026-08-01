@@ -52,7 +52,7 @@ Since its founding, Vantra Electronics has experienced significant revenue growt
   * [Bose as worst-performing brand](#bose-as-worst-performing-brand)
   * [Gaming Monitors among Big Ticket Items](#gaming-monitors-among-big-ticket-items)
 - [Loyalty Program](#loyalty-program)
-- [**Customer Demographic**](#customer-demographic)
+- [Customer Demographic](#customer-demographic)
 - [Recommendations](#recommendations)
   
 # Company Background 
@@ -142,18 +142,49 @@ Potential actions:
 ## Apple as the lead brand
 <p align="center"><img width="742" height="530" alt="image" src="https://github.com/user-attachments/assets/080afd44-c848-4965-864c-21b611d16f4f" /></p>
 
-**Among brands, Apple dominates in sales, accounting for 50% of Vantra's total profit, and 76% of all branded sales across the entire time period from 2019 to 2022.** Part of this market dominance may be attributed to Company's diverse shelf of products like the Airpods, the Macbook, and the iPhone; the former two being the most popular product of the Brand. By order count, Airpod headphones outperforms all other products with 48,000 units sold. However, it should be noted that by revenue, the order placement for these two products are reversed, where the gaming monitor is sold at a greater pricepoint and hence generates more revenue than the Airpod headphones. In addition, Apple has outperformed all other brands year after year since 2019, with 27% of Company's revenue coming from Airpods and 22% coming from Macbook. Accounting for nearly 50% of Vantra's total revenue coming from Apple products alone between the years 2019-2022, Apple consumption demands is remarkably high and sticky. Even with demand falling post-2020 with increased supply competition, the strong preference of Apple still outweighs other product line, demonstrating a substantial brand loyalty. Capitalizing on the Apple brand and image by selling more of their highyly demanded products would suggest a likely boost to revenue growth.  
+### Insight
+
+**Apple dominates Vantra's brand portfolio, accounting for 50% of total profit and 76% of all branded sales** from 2019–2022, driven largely by a diverse product shelf (AirPods, MacBook, iPhone). AirPods lead by order volume (48,000 units), while the gaming monitor generates more revenue per unit due to its higher price point — meaning volume and revenue leaders aren't the same product. AirPods and MacBook together drive roughly 49% of Apple's revenue (27% and 22%, respectively), and Apple has outperformed every other brand year-over-year since 2019. Even as overall demand softened post-2020 amid rising competition, Apple's share held strong relative to other brands — signaling durable brand loyalty and "sticky" consumer preference rather than a fleeting trend.
+
+### Business Implication 
+
+- Double down on Apple as a core revenue driver: Given its outsized contribution to profit and revenue, prioritize inventory allocation, marketing spend, and shelf space toward Apple products, especially AirPods and MacBook.
+- Reconcile volume vs. revenue strategy: Since AirPods drive units but the gaming monitor drives revenue per sale, consider bundling strategies (e.g., pairing high-volume/low-margin items with high-revenue/low-volume items) or adjusting pricing/promotions to lift AirPods' revenue contribution without sacrificing its volume advantage.
+- Investigate the post-2020 demand dip: Even though Apple's relative dominance held, understand what drove the decline (increased competitor supply) and assess whether targeted promotions, loyalty programs, or exclusive bundles could re-accelerate growth.
+- Leverage brand loyalty for cross-sell: Use Apple's sticky demand to introduce or upsell adjacent products (accessories, extended warranties, complementary tech) to Apple buyers, deepening basket size per transaction.
+- Monitor concentration risk: While Apple's dominance is a strength, over-reliance on a single brand for ~50% of revenue is a vulnerability. Consider parallel investment in diversifying the "next tier" of brands to hedge against supply chain, pricing, or reputational risk tied to Apple specifically.
+
 
 ## Bose as worst-performing brand
 <p align="center"><img width="890" height="319" alt="bose_growth_rate_table" src="https://github.com/user-attachments/assets/0041c7e9-5783-451d-aa05-9000c8d3ea2d" /></p>
 
-**Bose has experienced negative growth rate in revenue over the years**, with staggering 91% revenue contraction in 2022 compared to 2021, of which also experienced a substantial revenue contraction. Removal of the Bose product line will result in better catering to shifting consumer demands and open valuable operational resources and capacity towards better selling more profitable brands like Apple. With the year over year declining trend for Bose, this would be a conservative choice that can be safely made to increase the bottom line. 
+### Insight
+
+**Bose has shown a consistent, worsening negative revenue growth trend, culminating in a 91% revenue contraction in 2022** compared to 2021 — a year that itself already saw a substantial decline. This multi-year downward trajectory suggests the decline isn't a one-off dip but a sustained loss of consumer demand for the brand.
+
+### Business Implication 
+
+- Discontinue or phase out the Bose product line: Given the sustained, accelerating decline, removing Bose is a low-risk decision — the consistent downward trend over multiple years makes this a conservative call rather than a speculative one.
+- Reallocate freed-up resources to Apple: Redirect the shelf space, marketing budget, and operational capacity previously tied to Bose toward higher-performing, more profitable brands like Apple, where demand is strong and sticky.
+- Validate before fully exiting: Before a full removal, consider a brief diagnostic check (e.g., is the decline isolated to specific Bose product categories, or brand-wide?) to confirm there's no salvageable sub-segment worth retaining — this ensures the "conservative" choice is also a fully informed one.
+- Monitor the transition's impact: After reallocating resources, track whether the shift measurably improves margins and revenue concentration in higher-performing brands, to confirm the expected bottom-line benefit materializes.
 
 
 ## Gaming Monitors among Big Ticket Items
 <p align="center"><img width="646" height="222" alt="image" src="https://github.com/user-attachments/assets/2e980e85-7dee-4bb6-b6df-454338253360" /></p>
 
-Among items sold, **gaming monitor seems to generate the most revenue**, bringing in 9.8 million dollars. Next most lucrative SKU is Apple's Airpod Headphones with 7.7 million dollars in sales, followed by Macbook Air Laptop. When reviewing sales by order count, Apple Airpod Headphones outperforms gaming monitors by two-folds. This suggests that while gaming monitors are profitable in its pricing, airpod headphones are succeeding by sheer demand. Possible reasons may include portability factors, higher likeliness or need of replacement, lower price range for gifting, or brand stickiness from Apple. 
+### Insight
+
+The **gaming monitor is the top revenue-generating SKU at $9.8 million, followed by Apple's AirPods Headphones at $7.7 million**, then the MacBook Air Laptop. However, when measured by order count, AirPods outperform the gaming monitor by roughly two-fold — indicating these two products succeed through fundamentally different mechanisms: the gaming monitor wins on price point (high revenue per unit), while AirPods win on sheer volume of demand. Possible drivers of AirPods' high order volume include their portability, higher likelihood of needing replacement, lower price point making them attractive for gifting, and general Apple brand stickiness.
+
+### Business Implication
+
+- Treat these as two distinct growth levers, not one: Since gaming monitors and AirPods succeed for different reasons (margin/price vs. volume/demand), tailor strategy accordingly — protect and optimize pricing for the gaming monitor, and focus on inventory availability, restocking speed, and accessibility for AirPods.
+- Investigate the "why" behind AirPods' volume: Run further analysis (or light customer research) to confirm which driver — portability, replacement cycles, gift purchases, or brand loyalty — is most responsible for demand. This will clarify whether to invest in replenishment marketing, gifting-season promotions, or broader Apple ecosystem cross-sell.
+- Explore a bundling or complementary pricing strategy: Consider pairing a high-margin, low-volume item (gaming monitor) with a high-volume, lower-margin item (AirPods) in promotions to lift overall basket value while capitalizing on AirPods' natural demand pull.
+- Assess replacement-driven demand for retention opportunities: If replacement/upgrade cycles are a meaningful driver for AirPods, consider a loyalty or trade-in program to capture repeat purchases and strengthen customer retention.
+- Benchmark other SKUs against this volume-vs-revenue lens: Apply the same revenue-vs-order-count comparison across the broader catalog to identify other products that may be under- or over-indexing on price versus demand, informing future inventory and pricing decisions.
+
 
 # Loyalty Program
 
