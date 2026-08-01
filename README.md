@@ -6,12 +6,12 @@
 Since its founding, Vantra Electronics has experienced significant revenue growth, followed by a sustained decline in sales in subsequent years. This shift in performance has raised concerns prompting the investigation of this phenomenon. The Chief Commerical Officer has commissioned this analysis to determine the primary drivers of declining revenue and identify opportunities to restore sustainable growth. The analysis will be of the period between 2019 and 2022, where this phenomenon has ocurred. As requested, the following questions will be primary in exploring the fluctuations in sales figures.  
 
 #### Key Business Questions
-- [**What contributed to Vantra's initial revenue surge and its decline?**](https://github.com/bpananalytics/Vantra_Electronics_Analysis/blob/main/README.md#the-insight)
-- [**Which products and brands are driving or dragging performance?**](https://github.com/bpananalytics/Vantra_Electronics_Analysis/blob/main/README.md#brands-and-products)
-- Which geographic markets offer the greatest growth opportunities?
-- [**How does customer loyalty relate to purchasing behavior?**](https://github.com/bpananalytics/Vantra_Electronics_Analysis/blob/main/README.md#loyalty-program)
-- Which factors should management prioritize to restore growth?
-- 
+- [**What contributed to Vantra's initial revenue surge and its decline?**](https://github.com/bpananalytics/Vantra_Electronics_Analysis#revenue-returns-to-pre-pandemic-levels)
+- [**Which products and brands are driving or dragging performance?**](https://github.com/bpananalytics/Vantra_Electronics_Analysis#brands-and-products)
+- [**Which geographic markets offer the greatest growth opportunities?**](https://github.com/bpananalytics/Vantra_Electronics_Analysis#geography)
+- [**How does customer loyalty relate to purchasing behavior?**](https://github.com/bpananalytics/Vantra_Electronics_Analysis#loyalty-program)
+- [**Which factors should management prioritize to restore growth?**](https://github.com/bpananalytics/Vantra_Electronics_Analysis#recommendations)
+  
 
 #### 🟢Three Areas of Strength
 
@@ -46,10 +46,10 @@ Since its founding, Vantra Electronics has experienced significant revenue growt
   * [Data Quality & Limitations](#data-quality---limitations)
 - [Sales Overview](#sales-overview)
   * [Revenue Returns to Pre-Pandemic Levels](#revenue-returns-to-pre-pandemic-levels)
-    + [The Insight](#the-insight)
+    + [Insight](#insight)
     + [Business Implication](#business-implication)
   * [Seasonality](#seasonality)
-    + [The Insight](#the-insight-1)
+    + [Insight](#insight-1)
     + [Business Implication](#business-implication-1)
 - [Brands and Products](#brands-and-products)
   * [Apple as the lead brand](#apple-as-the-lead-brand)
@@ -117,7 +117,7 @@ To better understand Vantra's performance on sales, we focus on three north star
 
 <p align="center"><img width="785" height="430" alt="image" src="https://github.com/user-attachments/assets/9a5a3fc7-ead5-436b-9545-b5ff3a36cdc6" /></p>
 
-### The Insight
+### Insight
 2020 was an exceptional growth year for Vantra, with revenue increasing 62% year over year. Revenue subsequently declined toward pre-2020 levels through 2022, suggesting that the 2020 surge may have reflected temporary market conditions rather than a sustained shift in Vantra's underlying growth trajectory.
 
 The 2020 revenue increase was driven by both higher order volume and increased average order value (AOV). AOV increased approximately 30% in 2020 before returning toward 2019 levels by 2022. Order volume followed a similar pattern: orders increased sharply in 2020, continued growing more moderately in 2021, and then moved back toward 2019 levels in 2022. Together, these trends indicate that the 2020 revenue increase was not attributable to a single factor. Both transaction volume and customer spend per order temporarily increased before normalizing.
@@ -136,7 +136,7 @@ The current data do not indicate an immediate structural warning sign, but they 
 <p align="center"><img width="660" height="360" alt="q3_seasonal_trend" src="https://github.com/user-attachments/assets/84434937-dc11-4895-9136-d16dcf4aa93e" /></p>
 
 
-### The Insight
+### Insight
 
 **Summer — July, August, and September — and Autumn — October through December — both show an upward trajectory in Revenue.** This suggests that consumers are more apt to spend and make purchases during Q3 and Q4. A few underlying effects may be hypothesized here. Summer activity may be propelled by increased social activity and vacation temperaments, as consumers loosen spending during travel and leisure months. Autumn and winter momentum, particularly around Thanksgiving and Christmas, likely reflects holiday shopping behavior, as gift-giving and seasonal promotions drive both higher order volumes and higher average order values.
 October stands out as a noticeable dip in activity, likely serving as a staging ground for consumers to save up between high-spending seasons. A dip in spending following Christmas and New Year's is also to be expected, as there is little need to buy gifts for any holidays during that period.
