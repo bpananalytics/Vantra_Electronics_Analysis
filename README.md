@@ -137,7 +137,7 @@ Potential Actions:
 
 ### Insight
 
-**Apple dominates Vantra's brand portfolio, accounting for 50% of total profit and 76% of all branded sales** from 2019–2022, driven largely by a diverse product shelf (AirPods, MacBook, iPhone). AirPods lead by order volume (48,000 units), while the gaming monitor generates more revenue per unit due to its higher price point — meaning volume and revenue leaders aren't the same product. AirPods and MacBook together drive roughly 49% of Apple's revenue (27% and 22%, respectively), and Apple has outperformed every other brand year-over-year since 2019. Even as overall demand softened post-2020 amid rising competition, Apple's share held strong relative to other brands — signaling durable brand loyalty and "sticky" consumer preference rather than a fleeting trend.
+**Apple dominates Vantra's brand portfolio, accounting for 50% of total revenue and 76% of all branded sales** from 2019–2022, driven largely by a diverse product shelf (AirPods, MacBook, iPhone). AirPods lead by order volume (48,000 units), while the gaming monitor generates more revenue per unit due to its higher price point — meaning volume and revenue leaders aren't the same product. AirPods and MacBook together drive roughly 49% of Apple's revenue (27% and 22%, respectively), and Apple has outperformed every other brand year-over-year since 2019. Even as overall demand softened post-2020 amid rising competition, Apple's share held strong relative to other brands — signaling durable brand loyalty and "sticky" consumer preference rather than a fleeting trend.
 
 ### Business Implication 
 
