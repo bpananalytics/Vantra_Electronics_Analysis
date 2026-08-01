@@ -32,8 +32,11 @@ Since its founding, Vantra Electronics has experienced significant revenue growt
 
 
 # Table of Content
-
 - [Executive Summary](#executive-summary)
+      - [The Problem <br>](#the-problem--br-)
+      - [Key Business Questions](#key-business-questions)
+      - [Three Areas of Strength](#--three-areas-of-strength)
+      - [Three Areas for Action](#--three-areas-for-action)
 - [Table of Content](#table-of-content)
 - [Company Background](#company-background)
 - [About the Data](#about-the-data)
@@ -44,16 +47,30 @@ Since its founding, Vantra Electronics has experienced significant revenue growt
 - [Sales Overview](#sales-overview)
   * [Revenue Returns to Pre-Pandemic Levels](#revenue-returns-to-pre-pandemic-levels)
     + [The Insight](#the-insight)
-    + [Evidence](#evidence)
     + [Business Implication](#business-implication)
   * [Seasonality](#seasonality)
+    + [The Insight](#the-insight-1)
+    + [Business Implication](#business-implication-1)
 - [Brands and Products](#brands-and-products)
   * [Apple as the lead brand](#apple-as-the-lead-brand)
+    + [Insight](#insight)
+    + [Business Implication](#business-implication-2)
   * [Bose as worst-performing brand](#bose-as-worst-performing-brand)
+    + [Insight](#insight-1)
+    + [Business Implication](#business-implication-3)
   * [Gaming Monitors among Big Ticket Items](#gaming-monitors-among-big-ticket-items)
+    + [Insight](#insight-2)
+    + [Business Implication](#business-implication-4)
 - [Loyalty Program](#loyalty-program)
-- [Customer Demographic](#customer-demographic)
+  * [Insight](#insight-3)
+  * [Business Implication](#business-implication-5)
+- [Geography](#geography)
+  * [Insight](#insight-4)
+  * [Business Implication](#business-implication-6)
 - [Recommendations](#recommendations)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
   
 # Company Background 
 Vantra Electronics is a global e-commerce company founded in 2018, specializing in consumer electronics like laptops, smartphones, monitors, and headphones. It operates a digital marketplace through its website and mobile app, featuring products from multiple manufacturers alongside third-party sellers, with a footprint spanning North America, EMEA, APAC, and LATAM.
@@ -203,14 +220,32 @@ The loyalty program has been a clear success story, driving sustained growth sin
 - Replicate the Samsung Webcam and AirPods success pattern. Do consumer research what made these two products resonate with loyalty customers (price point, repeat purchase behavior, bundling) and apply similar tactics to other high-potential SKUs to broaden loyalty-driven sales.
 - Target non-loyalty customers with high AOV potential: Since loyalty customers spend more per order, design targeted campaigns (e.g., "join and save on your next order") aimed at converting frequent non-loyalty shoppers, who may be the easiest segment to convert given existing purchase intent.
 
-# **Customer Demographic**
+# Geography 
 
 <p align="center"><img width="800" height="480" alt="revenue_by_country_area_chart" src="https://github.com/user-attachments/assets/73401007-5bb6-4757-bae8-793c5a29ec0f" /></p>
 
-Of the highest top ten consumer base, Company has **64% of revenue coming from the United States**. This suggests that specializing towards a specific demographic like the US may enable further market penetration and allow for better allocation of logistical resources such as currency exchange, shipping, and localization. 
+## Insight
+
+**Among the top ten countries by consumer base, the United States alone accounts for 64% of total revenue ** — a heavy concentration that signals the U.S. is not just a leading market, but the dominant one by a wide margin. While Vantra makes considerable sales in other markets as well, the impact of the tail end markets are far exceeded by the impact of the U.S. in revenue contribution. The selection of the top ten countries is primarily to highlight the very marginal effect of having to service a host of various other markets. 
+
+## Business Implication 
+
+- Deepen U.S. market penetration and streamline logistics around U.S.: Given the outsized revenue share, prioritize U.S.-focused strategies — targeted marketing, region-specific promotions, and expanded product availability — to capture even more share in an already-proven market. Reallocate operational resources (shipping infrastructure, warehousing, customer service) to optimize for U.S. demand specifically, reducing complexity and cost tied to supporting lower-performing international markets.
+- Evaluate the cost-benefit of remaining international markets: With such heavy U.S. concentration, assess whether continued investment in the other top markets is yielding sufficient return, or whether resources are better spent doubling down domestically versus a more selective international expansion.
+- Consider a few secondary markets and cut the rest: While U.S. dominance is a strength, over-reliance on a single market leaves the company exposed to U.S.-specific economic shifts, competition, or regulatory changes. Consider a modest, deliberate investment in 1–2 secondary markets as a hedge, rather than abandoning international diversification entirely.
 
 # Recommendations
 
 | Recommendation | Priority | Department | Expected Impact |
 | - | - | - | - |
-| | | | 
+| Increase inventory allocation, marketing spend, and shelf space for Apple products (especially AirPods and MacBook) | High | Merchandising / Marketing | Reinforces the brand driving ~50% of revenue and profit; likely to boost near-term revenue growth |
+| Discontinue or phase out the Bose product line after a brief diagnostic check on sub-segment performance | High | Merchandising / Product | Frees up operational capacity and resources; removes a consistently underperforming brand (-91% YoY in 2022) |
+| Launch a loyalty program enrollment campaign (sign-up bonuses, first-purchase discounts) targeting frequent non-loyalty shoppers | High | Marketing / Customer Retention | Expands the customer segment already shown to outperform on revenue, AOV, and order count |
+| Investigate the post-2021 refund data gap with Sales and Accounting teams | High | Accounting / Data Governance | Resolves data integrity concerns and ensures future analyses (profitability, refunds) are accurate |
+| Create loyalty-exclusive AirPods bundles or early-access offers to convert non-loyalty AirPods buyers | Medium | Marketing / Loyalty Program | Leverages AirPods' popularity as an enrollment hook to grow loyalty membership |
+| Develop a bundling strategy pairing high-volume/low-margin items (AirPods) with high-revenue/low-margin items (gaming monitor) | Medium | Merchandising / Pricing Strategy | Lifts AirPods' revenue contribution while preserving gaming monitor's premium pricing |
+| Front-load marketing campaign spend into June and October ahead of Q3/Q4 demand spikes | Medium | Marketing | Captures seasonal demand more effectively; smooths spend during low-conversion periods (October, post-holiday) |
+| Diversify investment into a "next tier" of brands beyond Apple | Medium | Merchandising / Strategy | Reduces revenue concentration risk tied to reliance on a single brand |
+| Deepen U.S. market penetration through targeted regional marketing and expanded product availability | Medium | Marketing / Sales | Capitalizes on the dominant, already-proven market (64% of revenue) |
+| Evaluate cost-benefit of continued investment in secondary/tail-end international markets; consider consolidating logistics around 1–2 secondary markets | Low | Operations / Finance | Reduces logistical complexity and cost while maintaining a modest geographic hedge |
+| Conduct consumer research on drivers of AirPods and Samsung Webcam loyalty engagement to replicate success across other SKUs | Low | Consumer Insights / Marketing | Identifies scalable tactics to extend loyalty-driven sales to additional products |
