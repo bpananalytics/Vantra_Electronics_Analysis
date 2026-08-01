@@ -161,7 +161,7 @@ Potential Actions:
 
 
 ## Gaming Monitors among Big Ticket Items
-<p align="center"><img width="646" height="222" alt="image" src="https://github.com/user-attachments/assets/2e980e85-7dee-4bb6-b6df-454338253360" /></p>
+<p align="center"><img width="720" height="480" alt="revenue_vs_units_scatter" src="https://github.com/user-attachments/assets/b63e978e-714b-4f7b-bbce-784b10233a6e" /></p>
 
 ### Insight
 
