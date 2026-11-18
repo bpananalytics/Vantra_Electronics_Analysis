@@ -2,7 +2,7 @@
 
 🔧 Data pipeline: Raw orders were modeled into analysis-ready tables with dbt on BigQuery. → [**View the dbt project**](https://github.com/bpananalytics/vantra_dbt)
 
-> 🔄 **Update (v2, Nov 2026):** A follow-up test revised the loyalty program finding below. → [**View the loyalty test notebook**](https://github.com/bpananalytics/Vantra_Electronics_Analysis/blob/main/notebooks/loyalty_test.ipynb)
+> 🔄 **Update (v2, Nov 2026):** A follow-up test revised the loyalty program finding [**here.**](https://github.com/bpananalytics/Vantra_Electronics_Analysis/blob/main/notebooks/loyalty_test.ipynb)
 
 # Executive Summary 
 #### The Problem <br>
