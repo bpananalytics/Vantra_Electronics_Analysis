@@ -2,6 +2,8 @@
 
 🔧 Data pipeline: Raw orders were modeled into analysis-ready tables with dbt on BigQuery. → [**View the dbt project**](https://github.com/bpananalytics/vantra_dbt)
 
+> 🔄 **Update (v2, Nov 2026):** A follow-up test revised the loyalty program finding below. → [**View the loyalty test notebook**](https://github.com/bpananalytics/Vantra_Electronics_Analysis/blob/main/notebooks/loyalty_test.ipynb)
+
 # Executive Summary 
 #### The Problem <br>
 
@@ -20,7 +22,7 @@ Since its founding, Vantra Electronics has experienced significant revenue growt
 | Initiative | Data Insight | Strategic Implications |
 |----------|----------|----------|
 | Strong Apple Brand   | Apple accounts for roughly 50% of Vantra's revenue and has demonstrated a loyal customer following, having the most purchases out of all brands year after year.     | Leaning into selling more Apple products will lead to greater profitability.   |
-| Loyalty Program    | Loyalty Program demonstrates improved market performance against non-loyalty purchases in recent years for revenue, AOV, and order count. | Continued loyalty program promotion will yield more profit and projected revenue growth.     |
+| Loyalty Program    | Loyalty Program demonstrates improved market performance against non-loyalty purchases in recent years for revenue, AOV, and order count. | Continued loyalty program promotion will yield more profit and projected revenue growth. ⚠️ *Revised in v2: members are less likely to buy again than same-year non-members; see [Loyalty Program](#loyalty-program).*     |
 | High Market Activity in Summer and Autumn | More revenue hikes during the months of July, August, September, November, and December. | Front-load marketing campaign spending in June and October will help gear up for high spending season. 
 
 #### 🔴Three Areas for Action
@@ -186,6 +188,12 @@ The **gaming monitor is the top revenue-generating SKU at $9.8 million, followed
 
 The loyalty program has been a clear success story, driving sustained growth since its launch. Net revenue from loyalty customers jumped 613% in 2020 alone, and loyalty customers have consistently out-ordered non-loyalty customers every year since (2021 and 2022). At the product level, AirPods and Samsung Webcam show the strongest loyalty-driven performance, with loyalty customers accounting for more than half of AirPods sales — notable given AirPods is the company's second-highest revenue-generating product. By 2022, loyalty customers outperformed non-loyalty customers across every key metric: revenue, average order value (AOV), and order count — signaling that 2021 was a turning point where consumers fully embraced the program and now demonstrate both higher purchase frequency and higher spend per order.
 
+> **Update (v2, Nov 2026):** The analysis above compared all loyalty customers to all non-loyalty customers. A follow-up test found that members were mostly *newer* customers (12% of 2019's new customers vs. ~57% in 2021–22), and newer customers have had less time to buy again. Comparing customers who made their first purchase in the same year, members were **2–5 percentage points less likely to make a repeat purchase** than non-members in 2020, 2021, and 2022 (chi-square tests, p < 0.0001). 2019 members did slightly better, but not conclusively.
+>
+> **Revised takeaway:** the program is associated with strong spending, but not with customers coming back. Rather than expanding enrollment as-is, redesign the incentive to reward repeat purchases (e.g., points or discounts on a second order) instead of generous refunds, which may attract try-and-return shoppers. Caveat: much of this period covers the pandemic years, when shopping habits were unusual.
+>
+> → [**View the loyalty test notebook**](https://github.com/bpananalytics/Vantra_Electronics_Analysis/blob/main/notebooks/loyalty_test.ipynb)
+
 ## Business Implication 
 
 - Prioritize loyalty program enrollment growth: Since loyalty customers now outperform non-loyalty customers on every metric, expanding the loyalty base is likely one of the highest-leverage growth levers available. Introduce enrollment incentives (e.g., sign-up bonuses, first-purchase discounts) at checkout and marketing touchpoints.
@@ -213,9 +221,9 @@ The loyalty program has been a clear success story, driving sustained growth sin
 | - | - | - | - |
 | Increase inventory allocation, marketing spend, and shelf space for Apple products (especially AirPods and MacBook) | High | Merchandising / Marketing | Reinforces the brand driving ~50% of revenue and profit; likely to boost near-term revenue growth |
 | Discontinue or phase out the Bose product line after a brief diagnostic check on sub-segment performance | High | Merchandising / Product | Frees up operational capacity and resources; removes a consistently underperforming brand (-91% YoY in 2022) |
-| Launch a loyalty program enrollment campaign (sign-up bonuses, first-purchase discounts) targeting frequent non-loyalty shoppers | High | Marketing / Customer Retention | Expands the customer segment already shown to outperform on revenue, AOV, and order count |
+| Launch a loyalty program enrollment campaign (sign-up bonuses, first-purchase discounts) targeting frequent non-loyalty shoppers | High | Marketing / Customer Retention | Expands the customer segment already shown to outperform on revenue, AOV, and order count. ⚠️ *Revisit (v2): members repeat less than same-year non-members; redesign the incentive before expanding enrollment* |
 | Investigate the post-2021 refund data gap with Sales and Accounting teams | High | Accounting / Data Governance | Resolves data integrity concerns and ensures future analyses (profitability, refunds) are accurate |
-| Create loyalty-exclusive AirPods bundles or early-access offers to convert non-loyalty AirPods buyers | Medium | Marketing / Loyalty Program | Leverages AirPods' popularity as an enrollment hook to grow loyalty membership |
+| Create loyalty-exclusive AirPods bundles or early-access offers to convert non-loyalty AirPods buyers | Medium | Marketing / Loyalty Program | Leverages AirPods' popularity as an enrollment hook to grow loyalty membership. ⚠️ *Revisit (v2): see Loyalty Program update* |
 | Develop a bundling strategy pairing high-volume/low-margin items (AirPods) with high-revenue/low-margin items (gaming monitor) | Medium | Merchandising / Pricing Strategy | Lifts AirPods' revenue contribution while preserving gaming monitor's premium pricing |
 | Front-load marketing campaign spend into June and October ahead of Q3/Q4 demand spikes | Medium | Marketing | Captures seasonal demand more effectively; smooths spend during low-conversion periods (October, post-holiday) |
 | Diversify investment into a "next tier" of brands beyond Apple | Medium | Merchandising / Strategy | Reduces revenue concentration risk tied to reliance on a single brand |
