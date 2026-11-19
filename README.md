@@ -1,6 +1,7 @@
 <img width="2720" height="880" alt="vantra_electronics_bolt_logo" src="https://github.com/user-attachments/assets/e6dae741-a5b8-43e5-b90d-29560182e0b7" />
 
 🔧 Data pipeline: Raw orders were modeled into analysis-ready tables with dbt on BigQuery. → [**View the dbt project**](https://github.com/bpananalytics/vantra_dbt)
+> 📈 **Dashboard (v2):** Revenue by region, growth trends, and customer segments → [**View on Tableau Public**](https://public.tableau.com/app/profile/brian.pan7659/viz/Vantra_Dashboard/Dashboard1)
 
 > 🔄 **Update (v2, Nov 2026):** A follow-up test revised the loyalty program finding [**here.**](https://github.com/bpananalytics/Vantra_Electronics_Analysis/blob/main/notebooks/loyalty_test.ipynb)
 
